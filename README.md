@@ -1,4 +1,7 @@
 # closHomer
+
+[![DOI](https://zenodo.org/badge/859793319.svg)](https://doi.org/10.5281/zenodo.14719962)
+
 Code repository for the `closHomer` workflow to identify and characterise ecological trends (host and niche adaptation) in clostridial species.
 
 The workflow is written in a series of Jupyter notebooks, with accompanying helper and utility scripts, and conda environments. Please make sure all these conda environments have been installed before running a notebook.
