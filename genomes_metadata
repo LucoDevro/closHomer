@@ -1,542 +1,542 @@
-Species	Genome_accession	Taxonomic_cluster	Assembly_level	Size (bp)	No. genes	Completeness (%)	Contamination (%)	Status	Failed_checkM	Failed_Mash	Failed_QC	BioSample_accession	Assumed_lifestyle
-Clostridium swellfunianum	GCF_023656515.1	1	Contig	4763217	4487	97.18	4.36	Reference			FALSE	SAMN28729104	Free-living
-Clostridium rhizosphaerae	GCF_016765585.1	1	Scaffold	4849201	4691	99.38	5.69	Reference			FALSE	SAMN17370743	Host-associated
-Clostridium caldaquaticum	GCF_023806125.1	1	Scaffold	2978709	2862	97.29	0.04	Reference			FALSE	SAMN28052723	Free-living
-Clostridium prolinivorans	GCF_004011155.1	1	Contig	2615293	2489	100	1.24	Reference			FALSE	SAMN10397787	Free-living
-Clostridium thermarum	GCF_006351925.1	1	Complete Genome	3805212	3611	97.52	1.24	Reference			FALSE	SAMN11964582	Free-living
-Clostridium oryzae	GCF_002029235.1	1	Contig	5074802	4644	98.76	5.01	Reference			FALSE	SAMN06461355	Free-living
-Clostridium algoriphilum	GCF_020443705.1	1	Contig	4520579	4475	99.69	2.28	Reference			FALSE	SAMN22045412	Free-living
-Clostridium lacusfryxellense	GCF_018861735.1	1	Contig	5405903	5186	97.83	2.38	Reference			FALSE	SAMN19592822	Free-living
-Clostridium frigoris	GCF_018861865.1	1	Contig	4121528	3959	93.73	1.24	Reference			FALSE	SAMN19592816	Free-living
-Clostridium estertheticum	GCF_030585465.1	1	Complete Genome	4942908	4731	99.69	1.37	Reference			FALSE	SAMN19800468	Free-living
-Clostridium frigoriphilum	GCF_036541405.1	1	Contig	5105439	4941	99.38	0.83	Reference			FALSE	SAMN38289517	Free-living
-Clostridium psychrophilum	GCF_018861705.1	1	Contig	4116200	3945	99.69	1.99	Reference			FALSE	SAMN19592823	Free-living
-Clostridium tagluense	GCF_026650945.1	1	Complete Genome	5450588	5114	98.76	2.17	Reference			FALSE	SAMN22045405	Free-living
-Clostridium bowmanii	GCF_020176155.1	1	Contig	4882709	4691	99.38	0.66	Reference			FALSE	SAMN21245816	Free-living
-Clostridium arbusti	GCF_000246895.1	1	Contig	3970278	3776	98.55	1.4	Reference			FALSE	SAMD00036608	Free-living
-Clostridium pasteurianum	GCF_001856695.1	1	Complete Genome	4351863	4115	98.42	0.81	Reference			FALSE	SAMN04208905	Free-living
-Clostridium acidisoli	GCF_900176305.1	1	Contig	3999957	3973	99.38	1.24	Reference			FALSE	SAMN02745134	Free-living
-Clostridium akagii	GCF_000686725.1	1	Scaffold	4589511	4435	98.14	2.07	Reference			FALSE	SAMN02743371	Free-living
-Clostridium hydrogenum	GCF_021432385.1	1	Contig	5501482	4960	99.38	4.24	Reference			FALSE	SAMN16951297	Free-living
-Clostridium guangxiense	GCF_021043395.1	1	Scaffold	4408532	4179	100	0.93	Reference			FALSE	SAMN23417341	Free-living
-Clostridium acetobutylicum	GCF_000218855.1	1	Complete Genome	4145581	3988	97.81	0.88	Reference			FALSE	SAMN02603396	Free-living
-Clostridium felsineum	GCF_002006355.2	1	Complete Genome	5242194	4859	100	1.83	Reference			FALSE	SAMN05170511	Free-living
-Clostridium kluyveri	GCF_000010265.1	1	Complete Genome	3955303	3920	98.6	0.82	Reference			FALSE	SAMD00060959	Free-living
-Clostridium autoethanogenum	GCF_001484725.1	1	Complete Genome	4352446	4044	98.76	1.86	Reference			FALSE	SAMN03956958	Free-living
-Clostridium ljungdahlii	GCF_000143685.1	1	Complete Genome	4630065	4337	98.76	1.86	Reference			FALSE	SAMN02603159	Free-living
-Clostridium ragsdalei	GCF_001675165.1	1	Contig	4424992	4070	98.45	1.24	Reference			FALSE	SAMN04432160	Free-living
-Clostridium luticellarii	GCF_002995845.1	1	Contig	3754778	3737	98.6	0	Reference			FALSE	SAMN08638834	Free-living
-Clostridium aromativorans	GCF_020908015.1	1	Contig	3881051	3793	99.38	1.52	Reference			FALSE	SAMN23040330	Free-living
-Clostridium algifaecis	GCF_017874415.1	1	Contig	2964918	2900	99.07	1.24	Reference			FALSE	SAMN18247534	Free-living
-Clostridium tyrobutyricum	GCF_001642655.1	1	Complete Genome	3134437	3161	99.07	0.78	Reference			FALSE	SAMN04415495	Free-living
-Clostridium fermenticellae	GCF_003600355.1	1	Complete Genome	2819963	2646	98.76	0.16	Reference			FALSE	SAMN10068289	Free-living
-Clostridium carboxidivorans	GCF_001038625.1	1	Complete Genome	5752782	5287	99.38	3.42	Reference			FALSE	SAMN03740584	Free-living
-Clostridium drakei	GCF_003096175.1	1	Complete Genome	5695241	5171	99.38	2.48	Reference			FALSE	SAMN06834810	Free-living
-Clostridium scatologenes	GCF_000968375.1	1	Complete Genome	5749410	5308	98.55	3.31	Reference			FALSE	SAMN02721231	Pathogen
-Clostridium muellerianum	GCF_012926525.1	1	Scaffold	5645749	5217	100	3.11	Reference			FALSE	SAMN14366063	Free-living
-Clostridium thailandense	GCF_019207025.1	1	Contig	6484535	5924	99.38	2.33	Reference			FALSE	SAMN16996186	Free-living
-Clostridium magnum	GCF_900129955.1	1	Scaffold	6472246	6313	98.76	5.82	Reference			FALSE	SAMN02745944	Free-living
-Clostridium aciditolerans	GCF_016316925.1	1	Scaffold	5262995	4957	93.79	2.8	Reference			FALSE	SAMN16998415	Free-living
-Clostridium liquoris	GCF_002995785.1	1	Contig	2876197	2908	98.76	0	Reference			FALSE	SAMN08638830	Free-living
-Clostridium lundense	GCF_000619945.1	1	Scaffold	4753597	4610	99.38	0.36	Reference			FALSE	SAMN02952982	Host-associated
-Clostridium mobile	GCF_018918285.1	1	Contig	4014245	4041	93.95	0.62	Reference			FALSE	SAMN19374004	Host-associated
-Clostridium rectalis	GCF_900626095.1	1	Contig	3279426	3251	99.38	0.47	Reference			FALSE	SAMEA5137567	Host-associated
-Clostridium tetanomorphum	GCF_013296705.1	1	Contig	4475070	4336	98.76	1.24	Reference			FALSE	SAMN12025781	Pathogen
-Clostridium tetani	GCF_000007625.1	1	Complete Genome	2873333	2864	98.14	0.16	Reference			FALSE	SAMN02603289	Pathogen
-Clostridium cochlearium	GCF_900187165.1	1	Complete Genome	2435419	2445	96.89	0.78	Reference			FALSE	SAMEA4530647	Pathogen
-Clostridium pascui	GCF_016908015.1	1	Contig	3828744	3828	99.38	2.09	Reference			FALSE	SAMN17619922	Free-living
-Clostridium peptidivorans	GCF_900205925.1	1	Contig	3524229	3545	99.38	0.78	Reference			FALSE	SAMEA104228767	Free-living
-Clostridium combesii	GCF_002749945.1	1	Scaffold	3892013	3660	98.76	0	Reference		X	TRUE	SAMN07839333	Free-living
-Clostridium tepidum	GCF_002008345.1	1	Contig	3074397	2899	99.38	0	Reference			FALSE	SAMN06094717	Free-living
-Clostridium botulinum	GCF_000063585.1	1	Complete Genome	3903260	3699	99.41	0.17	Reference			FALSE	SAMEA1705919	Pathogen
-Clostridium sporogenes	GCF_020450145.1	1	Chromosome	4246123	3980	93.44	1.61	Reference			FALSE	SAMN21402699	Pathogen
-Clostridium niameyense	GCF_001243045.1	1	Scaffold	2542842	2490	98.76	0	Reference			FALSE	SAMEA3381202	Host-associated
-Clostridium acetireducens	GCF_001758365.1	1	Contig	2424212	2350	99.07	1.86	Reference			FALSE	SAMN05220839	Free-living
-Clostridium novyi	GCF_003614235.1	1	Complete Genome	2499078	2431	98.76	0.78	Reference			FALSE	SAMN09062437	Pathogen
-Clostridium haemolyticum	GCF_000724225.2	1	Contig	2607656	2706	98.76	0.16	Reference			FALSE	SAMN02593758	Pathogen
-Clostridium massiliodielmoense	GCF_900176615.1	1	Contig	2759335	2765	100	0	Reference			FALSE	SAMEA103970043	Host-associated
-Clostridium thermopalmarium	GCF_002995795.1	1	Contig	2819317	2781	100	0.16	Reference		X	TRUE	SAMN08638829	Free-living
-Clostridium colicanis	GCF_001593985.1	1	Contig	2619501	2640	100	0.16	Reference			FALSE	SAMN04516095	Host-associated
-Clostridium homopropionicum	GCF_900113195.1	1	Scaffold	3644832	3638	100	1.45	Reference			FALSE	SAMN04488501	Free-living
-Clostridium brassicae	GCF_026738875.1	1	Scaffold	4097941	3880	98.14	0.62	Reference			FALSE	SAMN31943988	Free-living
-Clostridium aestuarii	GCF_026735135.1	1	Scaffold	3582181	3358	99.38	1.39	Reference			FALSE	SAMN31944018	Free-living
-Clostridium ganghwense	GCF_026735165.1	1	Scaffold	4118181	3992	98.76	1.37	Reference			FALSE	SAMN31953020	Free-living
-Clostridium grantii	GCF_900129965.1	1	Scaffold	4474501	4287	100	0.88	Reference			FALSE	SAMN02745207	Host-associated
-Hathewaya histolytica	GCF_901482605.1	1	Complete Genome	2740791	2692	98.31	2.76	Reference			FALSE	SAMEA3919786	Pathogen
-Hathewaya massiliensis	GCF_902143515.1	1	Contig	3058214	2954	98.31	4.87	Reference			FALSE	SAMEA5724241	Host-associated
-Hathewaya limosa	GCF_030815255.1	1	Contig	3052708	2803	96.07	4.12	Reference			FALSE	SAMN35367918	Host-associated
-Hathewaya proteolytica	GCF_900142225.1	1	Scaffold	2818024	2751	97.13	4.02	Reference			FALSE	SAMN02745248	Host-associated
-Clostridium collagenovorans	GCF_900130005.1	1	Scaffold	3482404	3079	98.76	0.72	Reference			FALSE	SAMN02745196	Free-living
-Clostridium tepidiprofundi	GCF_001594005.1	1	Contig	3060113	2926	98.14	0.28	Reference			FALSE	SAMN04516102	Free-living
-Oceanirhabdus seepicola	GCF_023684385.1	1	Scaffold	5335032	4901	97	13.98	Reference	X		TRUE	SAMN18795807	Free-living
-Haloimpatiens lingqiaonensis	GCF_901447495.1	1	Contig	3295388	3082	97.57	5.31	Reference			FALSE	SAMEA5587607	Host-associated
-Haloimpatiens massiliensis	GCF_900184255.1	1	Scaffold	4215834	3890	98.88	10.32	Reference	X		TRUE	SAMEA104087842	Host-associated
-Clostridium argentinense	GCF_002074155.1	1	Complete Genome	4803058	4426	99.84	6.54	Reference			FALSE	SAMN04263500	Pathogen
-Clostridium faecium	GCF_014836835.1	1	Contig	3853386	3654	99.38	2.07	Reference			FALSE	SAMN15803243	Host-associated
-Clostridium ihumii	GCF_000612845.1	1	Contig	4433668	4164	99.38	1.86	Reference		X	TRUE	SAMEA3138979	Host-associated
-Clostridium senegalense	GCF_018916625.1	1	Contig	3841299	3533	99.69	1.24	Reference			FALSE	SAMN19374088	Host-associated
-Clostridium tunisiense	GCF_000300195.1	1	Contig	4308385	4068	97.52	5.42	Reference			FALSE	SAMN02472167	Free-living
-Clostridium punense	GCF_017874425.1	1	Contig	4712543	4312	100	5.75	Reference			FALSE	SAMN18245912	Host-associated
-Clostridium culturomicium	GCF_000821305.1	1	Contig	4325182	4223	98.91	3.11	Reference			FALSE	SAMEA2697681	Host-associated
-Clostridium sulfidigenes	GCF_000732635.1	1	Contig	3717420	3728	94.72	3.83	Reference			FALSE	SAMN02925393	Free-living
-Clostridium cellulovorans	GCF_000145275.1	1	Complete Genome	5262222	4510	98.45	2.07	Reference			FALSE	SAMN00002614	Free-living
-Clostridium bornimense	GCF_000577895.1	1	Complete Genome	3617025	3384	98.76	2.74	Reference			FALSE	SAMEA3138942	Free-living
-Clostridium fungisolvens	GCF_014193895.1	1	Contig	5283768	4686	99.38	3	Reference			FALSE	SAMD00229172	Free-living
-Clostridium zeae	GCF_017312485.1	1	Scaffold	5839723	5210	99.38	4.87	Reference			FALSE	SAMD00238710	Free-living
-Clostridium yunnanense	GCF_016595795.1	1	Scaffold	5715103	5168	99.38	3.62	Reference			FALSE	SAMN17189352	Host-associated
-Clostridium folliculivorans	GCF_024341905.1	1	Scaffold	5358041	4781	98.76	3.93	Reference			FALSE	SAMD00451122	Free-living
-Clostridium manihotivorum	GCF_004015185.1	1	Complete Genome	6364326	5740	99.38	5.33	Reference			FALSE	SAMN08328878	Free-living
-Clostridium polyendosporum	GCF_018332455.1	1	Scaffold	3735488	3567	100	0.72	Reference			FALSE	SAMD00283800	Free-living
-Clostridium fallax	GCF_900129365.1	1	Contig	2747337	2598	98.45	0.16	Reference			FALSE	SAMN05443638	Pathogen
-Clostridium taeniosporum	GCF_001735765.2	1	Complete Genome	3503506	3235	98.55	0	Reference			FALSE	SAMN05608059	Free-living
-Clostridium cagae	GCF_900290265.1	1	Contig	3738409	3512	98.76	0	Reference			FALSE	SAMEA104588894	Host-associated
-Clostridium weizhouense	GCF_019431045.1	1	Contig	3962696	3627	99.07	0.31	Reference			FALSE	SAMN20295133	Free-living
-Clostridium uliginosum	GCF_900112485.1	1	Scaffold	4080971	3601	99.38	0.62	Reference			FALSE	SAMN05421842	Free-living
-Clostridium gelidum	GCF_019977655.1	1	Complete Genome	6041432	5582	100	0.54	Reference			FALSE	SAMD00388684	Free-living
-Clostridium saccharobutylicum	GCF_000473995.1	1	Complete Genome	5107814	4538	99.38	0.62	Reference			FALSE	SAMN02603278	Free-living
-Clostridium beijerinckii	GCF_018223745.1	1	Complete Genome	5950247	5334	91.8	6.46	Reference			FALSE	SAMN18839070	Free-living
-Clostridium diolis	GCF_008705175.1	1	Complete Genome	5940808	5284	99.38	0.62	Reference			FALSE	SAMN12767048	Free-living
-Clostridium saccharoperbutylacetonicum	GCF_000340885.1	1	Complete Genome	6666445	5997	99.38	2.8	Reference			FALSE	SAMN02603265	Free-living
-Clostridium chromiireducens	GCF_003575225.1	1	Scaffold	5843819	5383	99.38	0.41	Reference			FALSE	SAMN09935165	Free-living
-Clostridium puniceum	GCF_002006345.1	1	Contig	6082167	5524	99.38	0.93	Reference			FALSE	SAMN05170536	Free-living
-Clostridium butyricum	GCF_001886875.1	1	Complete Genome	4639914	4230	97.21	1.51	Reference			FALSE	SAMN04262337	Free-living
-Clostridium neonatale	GCF_900465025.1	1	Contig	4739640	4298	99.38	0.62	Reference			FALSE	SAMEA4686613	Host-associated
-Clostridium vincentii	GCF_002995745.1	1	Contig	3505833	3517	98.14	1.35	Reference			FALSE	SAMN08638840	Free-living
-Clostridium cibarium	GCF_014836335.1	1	Scaffold	4256035	3902	98.76	0.8	Reference			FALSE	SAMN15803268	Host-associated
-Clostridium paraputrificum	GCF_000424025.1	1	Scaffold	3561289	3548	99.38	0.31	Reference			FALSE	SAMN02440830	Pathogen
-Eubacterium multiforme	GCF_030813415.1	1	Contig	3318204	3277	97.77	4.33	Reference			FALSE	SAMN18242973	Pathogen
-Clostridium moniliforme	GCF_017873235.1	1	Contig	2605467	2569	98.76	0.8	Reference			FALSE	SAMN18244935	Pathogen
-Clostridium sardiniense	GCF_019753795.1	1	Contig	3942322	3871	100	2.19	Reference			FALSE	SAMN20848293	Free-living
-Clostridium baratii	GCF_001991075.2	1	Complete Genome	3211717	3115	98.76	0.95	Reference			FALSE	SAMN04262349	Pathogen
-Clostridium thermobutyricum	GCF_000371465.1	1	Scaffold	3505620	3362	99.07	0.62	Reference			FALSE	SAMN02596770	Free-living
-Clostridium chrysemydis	GCF_015234215.1	1	Contig	3431939	3454	99.69	0.78	Reference			FALSE	SAMN16509476	Host-associated
-Clostridium lamae	GCF_033043255.1	1	Contig	3854040	3681	99.69	1.86	Reference			FALSE	SAMN34597889	Host-associated
-Clostridium gallinarum	GCF_014836325.1	1	Scaffold	3426635	3246	97.83	0.62	Reference			FALSE	SAMN15803267	Host-associated
-Clostridium sartagoforme	GCF_004794105.1	1	Contig	3753752	3400	97.83	1.24	Reference			FALSE	SAMN10878303	Host-associated
-Clostridium isatidis	GCF_002285495.1	1	Complete Genome	2869927	2785	95.96	1.55	Reference			FALSE	SAMN05468136	Free-living
-Clostridium nigeriense	GCF_900086595.1	1	Scaffold	3799489	3687	99.69	2.53	Reference			FALSE	SAMEA3982858	Host-associated
-Clostridium tertium	GCF_902373955.1	1	Scaffold	3813122	3629	100	0.93	Reference			FALSE	SAMEA5850831	Host-associated
-Clostridium gasigenes	GCF_017348895.1	1	Complete Genome	4132257	3888	97.52	0.62	Reference			FALSE	SAMN14501574	Free-living
-Clostridium septicum	GCF_003606265.1	1	Complete Genome	3404718	3242	98.51	0	Reference			FALSE	SAMN07710202	Pathogen
-Clostridium chauvoei	GCF_002327205.1	1	Complete Genome	2889569	2743	98.76	0	Reference			FALSE	SAMN06127795	Pathogen
-Clostridium disporicum	GCF_001405015.1	1	Scaffold	3449564	3319	97.83	1.71	Reference			FALSE	SAMEA3545322	Host-associated
-Clostridium hominis	GCF_014287825.1	1	Contig	4155764	4090	91.8	2.95	Reference			FALSE	SAMN15806947	Host-associated
-Clostridium lentum	GCF_014287815.1	1	Contig	2691116	2638	93.14	1.09	Reference			FALSE	SAMN15807349	Host-associated
-Clostridium celatum	GCF_021412605.1	1	Scaffold	3639821	3396	98.14	0.87	Reference			FALSE	SAMN23296584	Host-associated
-Clostridium saudiense	GCF_000577815.1	1	Contig	3653762	3528	99.07	2.33	Reference			FALSE	SAMEA3138939	Host-associated
-Clostridium cuniculi	GCF_004353185.1	1	Contig	4152105	4116	99.38	0.9	Reference			FALSE	SAMN11106743	Host-associated
-Clostridium intestinale	GCF_035905475.1	1	Complete Genome	4686421	4704	99.38	2.07	Reference			FALSE	SAMN33929498	Host-associated
-Clostridium paridis	GCF_016765615.1	1	Scaffold	4080554	4079	99.28	1.55	Reference			FALSE	SAMN17370666	Host-associated
-Inconstantimicrobium porci	GCF_009696465.1	1	Contig	3206647	3235	96.91	8.14	Reference			FALSE	SAMN12619121	Host-associated
-Sarcina ventriculi	GCF_902362755.1	1	Scaffold	2457263	2316	89.78	5.06	Reference	X		TRUE	SAMEA5849549	Pathogen
-Clostridium perfringens	GCF_020138775.1	1	Complete Genome	3275424	2975	96.27	4.98	Reference			FALSE	SAMN18175750	Pathogen
-Clostridium mediterraneense	GCF_902376185.1	1	Scaffold	3083338	2842	98.14	3.26	Reference			FALSE	SAMEA5851056	Host-associated
-Clostridium massiliamazoniense	GCF_001403635.1	1	Scaffold	3732966	3508	97.52	0.62	Reference			FALSE	SAMEA3538361	Host-associated
-Clostridium tarantellae	GCF_009295725.1	1	Contig	3979886	3535	98.76	0.78	Reference		X	TRUE	SAMN13025790	Pathogen
-Clostridium cavendishii	GCF_900141845.1	1	Scaffold	4987666	4599	98.76	2.07	Reference			FALSE	SAMN02745163	Free-living
-Clostridium algidicarnis	GCF_000703125.1	1	Contig	3060291	2883	99.38	0.21	Reference			FALSE	SAMN02841231	Host-associated
-Clostridium putrefaciens	GCF_900461105.1	1	Contig	3121953	2928	99.38	0.93	Reference			FALSE	SAMEA37373668	Pathogen
-Clostridium simiarum	GCF_018919175.1	1	Contig	3798665	3519	95.84	1.66	Reference			FALSE	SAMN19373998	Host-associated
-Desnuesiella massiliensis	GCF_001403615.1	1	Scaffold	5503198	5319	99.44	17.87	Reference	X		TRUE	SAMEA3538358	Host-associated
-Clostridium amylolyticum	GCF_900142075.1	1	Scaffold	4262456	4086	99.59	3.62	Reference			FALSE	SAMN05444401	Free-living
-Clostridium polynesiense	GCF_902375345.1	1	Contig	3560738	3590	94.16	1.4	Reference			FALSE	SAMEA5850982	Host-associated
-Clostridium cadaveris	GCF_020911725.1	1	Complete Genome	3625784	3524	99.38	0.31	Reference			FALSE	SAMN19659030	Host-associated
-Clostridium frigidicarnis	GCF_900111985.1	1	Scaffold	4337414	3985	99.38	0.62	Reference			FALSE	SAMN04488528	Free-living
-Clostridium hydrogeniformans	GCF_000686705.1	1	Scaffold	4101506	3798	99.38	3.02	Reference			FALSE	SAMN02743370	Free-living
-Herbinix hemicellulosilytica	GCF_002904165.1	14a	Contig	3036611	2710	95.42	1.03	Reference			FALSE	SAMEA3448156	Free-living
-Herbinix luporum	GCF_900070325.1	14a	Complete Genome	2609352	2436	94.79	1.46	Reference			FALSE	SAMEA3518679	Free-living
-Mobilitalea sibirica	GCF_015999265.1	14a	Contig	3847436	3428	97.92	1.22	Reference			FALSE	SAMN16980878	Free-living
-Variimorphobacter saccharofermentans	GCF_014174405.1	14a	Contig	4163427	3654	98.54	1.34	Reference			FALSE	SAMN15567581	Free-living
-Mobilisporobacter senegalensis	GCF_003752155.1	14a	Contig	4039008	3678	98.12	2.28	Reference			FALSE	SAMN10362904	Free-living
-Anaeromicropila populeti	GCF_900112775.1	14a	Scaffold	4222819	3789	98.12	2.8	Reference			FALSE	SAMN05661086	Free-living
-Clostridium polysaccharolyticum	GCF_900111595.1	14a	Scaffold	3458343	3093	98.75	2.34	Reference			FALSE	SAMN04487772	Host-associated
-Velocimicrobium porci	GCF_009696045.1	14a	Contig	3095654	2955	98.75	0.21	Reference			FALSE	SAMN12619146	Host-associated
-Acetivibrio ethanolgignens	GCF_001461035.1	14a	Scaffold	3660245	3762	98.76	0.28	Reference			FALSE	SAMN04229414	Host-associated
-Anaeromicropila herbilytica	GCF_016591975.1	14a	Complete Genome	5089009	4345	98.12	2.59	Reference			FALSE	SAMD00257484	Free-living
-Anaerosporobacter mobilis	GCF_900142955.1	14a	Scaffold	5217774	4632	98.75	3.94	Reference			FALSE	SAMN02746066	Free-living
-Anaerosporobacter faecicola	GCF_012070565.1	14a	Contig	4589105	4073	98.75	4.53	Reference			FALSE	SAMN14396858	Host-associated
-Anaerocolumna xylanovorans	GCF_900143645.1	14a	Scaffold	5420325	4729	97.92	3.2	Reference			FALSE	SAMN02745217	Free-living
-Anaerocolumna jejuensis	GCF_900142215.1	14a	Scaffold	6621268	5751	97.92	6.34	Reference			FALSE	SAMN02745136	Free-living
-Anaerocolumna chitinilytica	GCF_014218355.1	14a	Complete Genome	5621910	4935	97.92	3.23	Reference			FALSE	SAMD00229171	Free-living
-Anaerocolumna cellulosilytica	GCF_014218335.1	14a	Complete Genome	5430627	4530	97.92	2.59	Reference			FALSE	SAMD00229170	Free-living
-Anaerocolumna sedimenticola	GCF_009931695.1	14a	Complete Genome	5500435	5028	92.03	3.1	Reference			FALSE	SAMN13738321	Free-living
-Anaerocolumna aminovalerica	GCF_900205915.1	14a	Contig	4589939	4032	97.92	2.9	Reference			FALSE	SAMEA104228766	Free-living
-Lachnoclostridium phytofermentans	GCF_000018685.1	14a	Complete Genome	4847594	4119	97.92	4.17	Reference			FALSE	SAMN02598360	Free-living
-Konateibacter massiliensis	GCF_900184995.1	14a	Scaffold	4260837	3903	99.38	1.34	Reference			FALSE	SAMEA104102599	Host-associated
-Galacturonibacter soehngenii	GCF_008830185.1	14a	Contig	4097813	3823	98.75	1.03	Reference			FALSE	SAMN12838923	Free-living
-Lachnotalea glycerini	GCF_003201285.1	14a	Scaffold	4864689	4382	99.38	4.15	Reference			FALSE	SAMN08776315	Free-living
-Suonthocola fibrivorans	GCF_025567445.1	14a	Scaffold	5880143	5113	99.29	3.84	Reference			FALSE	SAMN30962702	Host-associated
-Diplocloster agilis	GCF_019042275.1	14a	Scaffold	5719309	4969	99.91	1.96	Reference			FALSE	SAMN19781706	Host-associated
-Diplocloster modestus	GCF_019042245.1	14a	Scaffold	5576960	4974	99.29	2.8	Reference			FALSE	SAMN19781705	Host-associated
-Anaerobium acetethylicum	GCF_900096945.1	14a	Scaffold	4609043	4035	98.75	1.56	Reference			FALSE	SAMN05421730	Free-living
-Anaerosacchariphilus polymeriproducens	GCF_003363435.1	14a	Contig	3815928	3673	98.75	2.9	Reference			FALSE	SAMN09736164	Free-living
-Parasporobacterium paucivorans	GCF_900141895.1	14a	Contig	2443757	2446	97.5	1.25	Reference			FALSE	SAMN02745691	Free-living
-Clostridium transplantifaecale	GCF_900626075.1	14a	Contig	5650377	4932	99.38	1.55	Reference			FALSE	SAMEA5137568	Host-associated
-Clostridium symbiosum	GCF_008632235.1	14a	Scaffold	5072209	4525	93.13	5.17	Reference			FALSE	SAMN12736038	Pathogen
-Otoolea muris	GCF_943193115.1	14a	Contig	5475820	5481	98.75	2.92	Reference			FALSE	SAMEA14418528	Host-associated
-Clostridium segne	GCF_014287925.1	14a	Contig	3098902	2840	97.82	0.62	Reference			FALSE	SAMN15807795	Host-associated
-Clostridium fessum	GCF_027698965.1	14a	Scaffold	3109172	2857	100	0.62	Reference			FALSE	SAMN31809507	Host-associated
-Clostridium vitabionis	GCF_015351765.1	14a	Scaffold	2863412	2640	91.51	1.24	Reference			FALSE	SAMN16630968	Host-associated
-Clostridium aminophilum	GCF_900112885.1	14a	Scaffold	3113820	2657	97.41	0.62	Reference			FALSE	SAMN02910262	Host-associated
-Enterocloster hominis	GCF_014385265.1	14a	Contig	2775296	2587	95	0.21	Reference			FALSE	SAMN15808038	Host-associated
-Alitiscatomonas aceti	GCF_025567195.1	14a	Scaffold	3399574	3331	98.12	0.1	Reference			FALSE	SAMN30962671	Host-associated
-Moryella indoligenes	GCF_030812885.1	14a	Contig	2503313	2414	96.35	0.31	Reference			FALSE	SAMN18242908	Pathogen
-Stomatobaculum longum	GCF_000242235.1	14a	Scaffold	2313632	2164	96.89	0.31	Reference			FALSE	SAMN02463871	Host-associated
-Oribacterium asaccharolyticum	GCF_000238075.1	14a	Scaffold	2520584	2282	99.17	0.1	Reference			FALSE	SAMN02463873	Host-associated
-Oribacterium parvum	GCF_000238055.2	14a	Scaffold	2470863	2197	99.34	0.47	Reference			FALSE	SAMN02463872	Host-associated
-Oribacterium sinus	GCF_014202695.1	14a	Scaffold	2727810	2398	96.49	3.08	Reference			FALSE	SAMN14908368	Host-associated
-Lachnoanaerobaculum gingivalis	GCF_003862475.1	14a	Contig	3097953	2890	99.38	0	Reference			FALSE	SAMN10461966	Host-associated
-Lachnoanaerobaculum orale	GCF_003862485.1	14a	Scaffold	2800999	2647	99.38	0.31	Reference			FALSE	SAMN10465328	Host-associated
-Lachnoanaerobaculum saburreum	GCF_000185385.1	14a	Scaffold	3082404	2895	96.32	0.22	Reference			FALSE	SAMN00216780	Host-associated
-Lachnoanaerobaculum umeaense	GCF_003589745.1	14a	Complete Genome	2810441	2626	99.38	0.31	Reference			FALSE	SAMN10059125	Host-associated
-Johnsonella ignava	GCF_000235445.1	14a	Scaffold	2687075	2422	96.35	0	Reference			FALSE	SAMN02463813	Host-associated
-Clostridium indolis	GCF_000526995.1	14a	Contig	6383701	5810	98.06	2.59	Reference			FALSE	SAMN02597187	Free-living
-Clostridium methoxybenzovorans	GCF_000421505.1	14a	Contig	7085377	6594	98.06	3.21	Reference			FALSE	SAMN02440585	Free-living
-Lacrimispora sphenoides	GCF_900461315.1	14a	Contig	5309474	4809	98.68	2.9	Reference			FALSE	SAMEA44518168	Free-living
-Clostridium celerecrescens	GCF_002797975.1	14a	Contig	5272838	4788	98.06	2.28	Reference			FALSE	SAMN02745763	Pathogen
-Clostridium saccharolyticum	GCF_000144625.1	14a	Complete Genome	4662871	4327	99.31	1.03	Reference			FALSE	SAMN00017134	Free-living
-Clostridium boliviensis	GCF_033342255.1	14a	Contig	5275533	5146	98.65	3.28	Reference		X	TRUE	SAMN37767489	Free-living
-Lacrimispora amygdalina	GCF_900205965.1	14a	Contig	5477561	5236	98.68	5.09	Reference			FALSE	SAMEA104228769	Free-living
-Hungatella xylanolytica	GCF_002934545.1	14a	Contig	5629247	5340	93.78	15.15	Reference	X		TRUE	SAMN06264904	Free-living
-Lacrimispora defluvii	GCF_013036995.1	14a	Contig	5624842	5425	98.68	4.36	Reference			FALSE	SAMN14352044	Free-living
-Clostridium indicum	GCF_003432035.1	14a	Scaffold	5946122	5748	99.28	1.35	Reference			FALSE	SAMN09630405	Free-living
-Lacrimispora xylanolytica	GCF_026723765.1	14a	Complete Genome	4516221	4165	98.06	1.65	Reference			FALSE	SAMN31936216	Free-living
-Clostridium aerotolerans	GCF_000687555.1	14a	Contig	4732373	4391	98.06	2.59	Reference			FALSE	SAMN02743875	Host-associated
-Lacrimispora algidixylanolytica	GCF_003609635.1	14a	Contig	4639933	4300	98.68	3.39	Reference			FALSE	SAMN05504968	Free-living
-Hungatella effluvii	GCF_003201875.1	14a	Scaffold	6863335	5989	93.94	21.67	Reference	X		TRUE	SAMN09074768	Host-associated
-Hungatella hominis	GCF_014288005.1	14a	Contig	7159456	6531	91.46	23.51	Reference	X		TRUE	SAMN15808049	Host-associated
-Hungatella hathewayi	GCF_009721605.1	14a	Contig	6646572	5952	94.32	18.79	Reference	X		TRUE	SAMN12785169	Host-associated
-Enterocloster bolteae	GCF_000371705.1	14a	Scaffold	6377378	5887	98.12	0.54	Reference			FALSE	SAMN02596758	Pathogen
-Enterocloster clostridioformis	GCF_012273195.1	14a	Chromosome	5539047	5486	98.75	3.01	Reference			FALSE	SAMN11056454	Host-associated
-Enterocloster citroniae	GCF_900115855.1	14a	Scaffold	6043725	5457	98.75	2.9	Reference			FALSE	SAMN05216568	Pathogen
-Clostridium porci	GCF_009696375.1	14a	Contig	4224091	4109	98.76	0.94	Reference			FALSE	SAMN12619127	Pathogen
-Enterocloster alcoholdehydrogenati	GCF_013282095.1	14a	Contig	3806033	3588	98.44	0.71	Reference			FALSE	SAMD00217523	Host-associated
-Lachnoclostridium pacaense	GCF_900566185.1	14a	Scaffold	2672202	2436	36.37	1.46	Reference	X		TRUE	SAMEA4939871	Host-associated
-Enterocloster lavalensis	GCF_902364025.1	14a	Scaffold	6502696	5823	98.75	5.6	Reference			FALSE	SAMEA5849674	Host-associated
-Clostridium asparagiforme	GCF_025149125.1	14a	Complete Genome	6353279	5725	98.44	5.07	Reference			FALSE	SAMN20222674	Host-associated
-Lachnoclostridium edouardi	GCF_900240245.1	14a	Contig	3329949	3207	99.38	0.62	Reference			FALSE	SAMEA104414345	Host-associated
-Brotaphodocola catenula	GCF_020686985.1	14a	Contig	3322202	2950	96.89	0.62	Reference			FALSE	SAMN22081901	Host-associated
-Fusibacillus kribbianus	GCF_030053595.1	14a	Scaffold	2906142	2825	98.54	2.08	Reference			FALSE	SAMN34546149	Host-associated
-Lientehia hominis	GCF_021044755.1	14a	Contig	3049388	2883	97.92	0.78	Reference			FALSE	SAMN23394669	Host-associated
-Qiania dongpingensis	GCF_014337195.1	14a	Complete Genome	3084832	2897	97.92	0.62	Reference			FALSE	SAMN15805244	Host-associated
-Hominifimenecus microfluidus	GCF_020687485.1	14a	Contig	3985039	3710	96.67	1.25	Reference			FALSE	SAMN22081878	Host-associated
-Cuneatibacter caecimuris	GCF_004216775.1	14a	Scaffold	3462725	3268	98.75	1.01	Reference			FALSE	SAMN10864764	Host-associated
-Anthropogastromicrobium aceti	GCF_020687335.1	14a	Contig	3705574	3284	98.54	0.94	Reference			FALSE	SAMN22081882	Host-associated
-Jingyaoa shaoxingensis	GCF_014385005.1	14a	Contig	3649426	3520	97.5	0.62	Reference			FALSE	SAMN15805278	Host-associated
-Muricoprocola aceti	GCF_025567005.1	14a	Scaffold	3270962	3153	97.5	1.25	Reference			FALSE	SAMN30962696	Host-associated
-Marvinbryantia formatexigens	GCF_025148285.1	14a	Complete Genome	4577574	4270	98.75	0.62	Reference			FALSE	SAMN20222669	Host-associated
-Laedolimicola ammoniilytica	GCF_025567165.1	14a	Scaffold	3561714	3488	99.06	0.94	Reference			FALSE	SAMN30962694	Host-associated
-Roseburia difficilis	GCF_014287625.1	14a	Contig	3223102	3151	73.49	14.85	Reference	X		TRUE	SAMN15808670	Host-associated
-Anaerosacchariphilus hominis	GCF_014290175.1	14a	Contig	3299248	3266	98.44	0.83	Reference			FALSE	SAMN15807351	Host-associated
-Hominiventricola filiformis	GCF_020686965.1	14a	Contig	3494392	3497	98.54	0.62	Reference			FALSE	SAMN22081903	Host-associated
-Fusicatenibacter faecihominis	GCF_020686945.1	14a	Contig	3901120	3617	99.38	0	Reference			FALSE	SAMN22081904	Host-associated
-Hominisplanchenecus faecis	GCF_020687205.1	14a	Contig	3266661	3025	100	0.62	Reference			FALSE	SAMN22081891	Host-associated
-Murimonas intestini	GCF_902363655.1	14a	Scaffold	5745043	4906	99.06	0.31	Reference			FALSE	SAMEA5849636	Host-associated
-Robinsoniella peoriensis	GCF_900096675.1	14a	Contig	7202111	5989	99.29	1.88	Reference			FALSE	SAMEA4393858	Pathogen
-Hominisplanchenecus murintestinalis	GCF_943193015.1	14a	Contig	3320873	3061	97.5	0.28	Reference			FALSE	SAMEA14418529	Host-associated
-Blautia coccoides	GCF_900461125.1	14a	Contig	6115043	5485	99.06	1.72	Reference			FALSE	SAMEA44522668	Host-associated
-Blautia producta	GCF_010669205.1	14a	Complete Genome	6197116	5791	96.86	7.2	Reference			FALSE	SAMN13925607	Host-associated
-Blautia parvula	GCF_020215665.1	14a	Complete Genome	6247046	5642	97.73	2.57	Reference			FALSE	SAMN21529767	Host-associated
-Blautia marasmi	GCF_900258535.1	14a	Contig	6170525	5419	98.37	2.18	Reference			FALSE	SAMEA104557092	Host-associated
-Blautia pseudococcoides	GCF_001689125.2	14a	Complete Genome	5128746	4853	97.89	1.15	Reference			FALSE	SAMN04621619	Host-associated
-Blautia hominis	GCF_002270465.1	14a	Contig	5878941	5116	96.31	0.67	Reference			FALSE	SAMN07460455	Host-associated
-Blautia celeris	GCF_014287615.1	14a	Contig	6189697	5640	97.96	2.26	Reference			FALSE	SAMN15807792	Host-associated
-Blautia stercoris	GCF_014385405.1	14a	Contig	3425373	3247	94.52	0.96	Reference			FALSE	SAMN15862249	Host-associated
-Blautia argi	GCF_003287895.1	14a	Complete Genome	3297975	3222	87.39	1.49	Reference	X		TRUE	SAMN09487132	Host-associated
-Blautia hansenii	GCF_002222595.2	14a	Complete Genome	3065949	3071	90.3	1.82	Reference			FALSE	SAMN07340700	Host-associated
-Lactonifactor longoviformis	GCF_900129135.1	14a	Scaffold	4839287	4510	88.14	16.24	Reference	X		TRUE	SAMN02745158	Host-associated
-Ruminococcus gauvreauii	GCF_025151995.1	14a	Complete Genome	4145839	3874	99.17	6.92	Reference			FALSE	SAMN20222709	Host-associated
-Blautia difficilis	GCF_014297245.1	14a	Contig	3618389	3468	98.34	1.14	Reference			FALSE	SAMN15807794	Host-associated
-Blautia wexlerae	GCF_025148125.1	14a	Complete Genome	4685728	4431	98.91	1.88	Reference			FALSE	SAMN20222668	Host-associated
-Blautia luti	GCF_033096465.1	14a	Complete Genome	3741599	3479	99	0.73	Reference			FALSE	SAMD00589204	Host-associated
-Blautia caecimuris	GCF_024622975.1	14a	Contig	4093107	3891	96.67	1.06	Reference			FALSE	SAMN29593107	Host-associated
-Blautia obeum	GCF_025147765.1	14a	Complete Genome	3649956	3503	97.34	1.38	Reference			FALSE	SAMN20222666	Host-associated
-Blautia intestinalis	GCF_014297355.1	14a	Contig	3481912	3363	97.53	0.16	Reference			FALSE	SAMN15807409	Host-associated
-Blautia schinkii	GCF_013304825.1	14a	Contig	3494515	3223	99.23	0.78	Reference			FALSE	SAMN14067549	Host-associated
-Blautia fusiformis	GCF_020686995.1	14a	Contig	3534643	3298	99.23	1.9	Reference			FALSE	SAMN22081902	Host-associated
-Blautia faecis	GCF_020554845.1	14a	Contig	4104676	3828	95.31	3.21	Reference			FALSE	SAMN22167605	Host-associated
-Blautia glucerasea	GCF_013300845.1	14a	Contig	4398197	4178	95.02	4.15	Reference			FALSE	SAMN14067757	Host-associated
-Blautia acetigignens	GCF_025566865.1	14a	Scaffold	4023593	3837	95.61	2.23	Reference			FALSE	SAMN30962678	Host-associated
-Blautia segnis	GCF_014287535.1	14a	Contig	3877012	3696	93.38	1.97	Reference			FALSE	SAMN15807410	Host-associated
-Blautia ammoniilytica	GCF_025566965.1	14a	Scaffold	3891993	3705	92.81	3.12	Reference			FALSE	SAMN30962677	Host-associated
-Blautia hydrogenotrophica	GCF_034356035.1	14a	Complete Genome	3597785	3450	99.61	0.08	Reference			FALSE	SAMN36866738	Host-associated
-Porcincola intestinalis	GCF_034173145.1	14a	Contig	2555669	2256	94.49	0.31	Reference			FALSE	SAMN37949366	Host-associated
-Chordicoccus furentiruminis	GCF_019355395.1	14a	Complete Genome	3267205	2963	96.88	0.62	Reference			FALSE	SAMN14089677	Host-associated
-Eubacterium cellulosolvens	GCF_000621585.1	14a	Scaffold	3331935	2829	99.03	1.39	Reference			FALSE	SAMN02744000	Host-associated
-Bilifractor porci	GCF_009696005.1	14a	Contig	2709224	2500	97.64	0.62	Reference			FALSE	SAMN12619148	Host-associated
-Blautia liquoris	GCF_015159595.1	14a	Complete Genome	3518434	3232	87.9	1.72	Reference	X		TRUE	SAMN16416437	Free-living
-Novisyntrophococcus fermenticellae	GCF_018866245.1	14a	Complete Genome	3420321	3184	97.81	0	Reference			FALSE	SAMN19513401	Free-living
-Wansuia hejianensis	GCF_014337215.1	14a	Complete Genome	3949724	3659	99.06	1.15	Reference			FALSE	SAMN15805280	Host-associated
-Fusicatenibacter saccharivorans	GCF_027667425.1	14a	Scaffold	3782803	3483	99.17	0.65	Reference			FALSE	SAMN31809255	Host-associated
-Oliverpabstia intestinalis	GCF_009696065.1	14a	Contig	3233390	3077	99.38	1.46	Reference			FALSE	SAMN12619145	Host-associated
-Blautia faecicola	GCF_004123145.1	14a	Contig	3738517	3499	93.91	2.81	Reference			FALSE	SAMN10797474	Host-associated
-Dorea hominis	GCF_014287705.1	14a	Contig	3019761	2879	86.97	6.29	Reference	X		TRUE	SAMN15808037	Host-associated
-Dorea amylophila	GCF_027664025.1	14a	Scaffold	3315135	3239	98.65	4.21	Reference			FALSE	SAMN31808452	Host-associated
-Dorea longicatena	GCF_001404635.1	14a	Scaffold	3033150	2950	93.44	4.67	Reference			FALSE	SAMEA3545259	Host-associated
-Dorea acetigenes	GCF_025567385.1	14a	Scaffold	3714607	3595	86.75	8.6	Reference	X		TRUE	SAMN30962686	Host-associated
-Dorea ammoniilytica	GCF_025567415.1	14a	Scaffold	2693657	2659	89.92	7.35	Reference	X		TRUE	SAMN30962687	Host-associated
-Dorea formicigenerans	GCF_000169235.1	14a	Contig	3186031	3120	98.81	0.46	Reference			FALSE	SAMN00000008	Host-associated
-Lachnoclostridium phocaeense	GCF_900120345.1	14a	Complete Genome	3500754	3435	98.75	1.88	Reference			FALSE	SAMEA4555314	Host-associated
-Claveliimonas monacensis	GCF_014982975.1	14a	Contig	3008920	2909	98.12	1.56	Reference			FALSE	SAMN16401875	Host-associated
-Faecalicatena fissicatena	GCF_016900595.1	14a	Contig	3118757	3031	98.75	1.38	Reference			FALSE	SAMN14913605	Host-associated
-Claveliimonas bilis	GCF_030296795.1	14a	Complete Genome	3143665	3093	98.75	0.62	Reference			FALSE	SAMD00579470	Host-associated
-Mordavella massiliensis	GCF_016902415.1	14a	Contig	2614310	2639	85.18	5.24	Reference	X		TRUE	SAMN14913548	Host-associated
-Merdimonas faecis	GCF_001754075.1	14a	Contig	3318223	3308	99.38	2.29	Reference			FALSE	SAMN05727926	Host-associated
-Suipraeoptans intestinalis	GCF_034091795.1	14a	Contig	2116754	1932	97.5	0.62	Reference			FALSE	SAMN37949878	Host-associated
-Massilistercora timonensis	GCF_900312975.1	14a	Complete Genome	2769591	2753	99.12	0.29	Reference			FALSE	SAMEA104651889	Host-associated
-Dorea phocaeensis	GCF_900240315.1	14a	Contig	2467622	2374	85.03	4.42	Reference	X		TRUE	SAMEA104415757	Host-associated
-Sporofaciens musculi	GCF_009830285.1	14a	Contig	5763728	5989	98.12	2.6	Reference			FALSE	SAMN13441975	Host-associated
-Extibacter muris	GCF_004345005.1	14a	Contig	3711428	3996	98.75	0.71	Reference			FALSE	SAMEA3725514	Host-associated
-Clostridium hylemonae	GCF_022845755.1	14a	Complete Genome	3922038	3671	99.38	0	Reference			FALSE	SAMD00389864	Host-associated
-Clostridium scindens	GCF_020892115.1	14a	Complete Genome	3315593	3421	98.75	0.07	Reference			FALSE	SAMD00239677	Host-associated
-Coprococcus phoceensis	GCF_900104635.1	14a	Contig	3601259	3538	89.12	17.87	Reference	X		TRUE	SAMEA4519291	Host-associated
-Faecalimonas umbilicata	GCF_027691975.1	14a	Scaffold	2948785	2875	99.38	0.62	Reference			FALSE	SAMN31809771	Host-associated
-Coprococcus comes	GCF_016904155.1	14a	Complete Genome	3373067	3284	97.88	2.61	Reference			FALSE	SAMN16357481	Host-associated
-Bariatricus massiliensis	GCF_900086725.1	14a	Scaffold	4219447	4053	98.75	0.52	Reference			FALSE	SAMEA3959520	Host-associated
-Sellimonas caecigallum	GCF_019754295.1	14a	Contig	2670636	2608	99.38	0	Reference			FALSE	SAMN12161805	Host-associated
-Sellimonas catena	GCF_027924685.1	14a	Contig	3677942	3639	98.75	0.62	Reference			FALSE	SAMD00553205	Host-associated
-Sellimonas intestinalis	GCF_003435335.1	14a	Scaffold	3234776	3154	99.38	1.25	Reference			FALSE	SAMN09736505	Host-associated
-Hespellia stercorisuis	GCF_900142165.1	14a	Scaffold	4402942	4189	97.5	0.62	Reference			FALSE	SAMN02745243	Host-associated
-Faecalicatena contorta	GCF_902375555.1	14a	Scaffold	5156194	4545	99.38	1.56	Reference			FALSE	SAMEA5851002	Host-associated
-Luxibacter massiliensis	GCF_900604355.1	14a	Contig	4142938	3920	98.68	1.57	Reference			FALSE	SAMEA4979949	Host-associated
-Faecalicatena orotica	GCF_003149245.1	14a	Scaffold	5717637	5202	99.31	0.21	Reference			FALSE	SAMN05216536	Free-living
-Faecalicatena faecalis	GCF_012524165.2	14a	Contig	5175159	4747	98.75	0	Reference			FALSE	SAMN14594271	Host-associated
-Muricomes intestini	GCF_004346165.1	14a	Contig	3717384	3573	98.75	0.69	Reference			FALSE	SAMN10362948	Host-associated
-Faecalicatena acetigenes	GCF_025567175.1	14a	Scaffold	2951124	2876	99.38	0.36	Reference			FALSE	SAMN30962689	Host-associated
-Mediterraneibacter massiliensis	GCF_001487105.1	14a	Scaffold	3069885	2946	99.38	0.36	Reference			FALSE	SAMEA3674418	Host-associated
-Mediterraneibacter hominis	GCF_014287475.1	14a	Contig	3598112	3434	99.38	1.68	Reference			FALSE	SAMN15808054	Host-associated
-Mediterraneibacter catenae	GCF_008691045.1	14a	Contig	3181448	3101	99.38	0.62	Reference			FALSE	SAMN12264415	Host-associated
-Ruminococcus turbiniformis	GCF_020687545.1	14a	Contig	3813516	3681	99.48	5.46	Reference			FALSE	SAMN22081872	Host-associated
-Ruminococcus torques	GCF_003470435.1	14a	Scaffold	2959517	2749	99.38	0	Reference			FALSE	SAMN09734906	Host-associated
-Mediterraneibacter faecis	GCF_027670965.1	14a	Scaffold	3102600	2909	98.66	0.83	Reference			FALSE	SAMN31809112	Host-associated
-Ruminococcus lactaris	GCF_025152405.1	14a	Complete Genome	2733858	2576	98.75	0.62	Reference			FALSE	SAMN20222711	Host-associated
-Mediterraneibacter agrestimuris	GCF_943193195.1	14a	Contig	4042800	3866	98.12	2.66	Reference			FALSE	SAMEA14418535	Host-associated
-Mediterraneibacter glycyrrhizinilyticus	GCF_015560805.1	14a	Scaffold	3000221	2748	99.38	0.83	Reference			FALSE	SAMN15533175	Host-associated
-Schaedlerella arabinosiphila	GCF_003885045.1	14a	Contig	6521014	6054	98.97	3.75	Reference			FALSE	SAMN10273262	Host-associated
-Ruminococcus hominis	GCF_014287355.1	14a	Contig	3454944	3215	96.69	2.86	Reference			FALSE	SAMN15808052	Host-associated
-Mediterraneibacter gnavus	GCF_009831375.1	14a	Complete Genome	3549191	3556	98.27	0.75	Reference			FALSE	SAMN08398974	Host-associated
-Mediterraneibacter butyricigenes	GCF_003574295.1	14a	Contig	3034489	2952	99.06	0.16	Reference			FALSE	SAMD00137494	Host-associated
-Ohessyouella blattaphilus	GCF_024160185.1	14a	Contig	3250480	3098	98.12	1.25	Reference			FALSE	SAMN28657362	Host-associated
-Aequitasia blattaphilus	GCF_024160205.1	14a	Contig	3210596	3083	98.66	1.25	Reference			FALSE	SAMN28657361	Host-associated
-Brotonthovivens ammoniilytica	GCF_025566885.1	14a	Scaffold	3452403	3188	97.92	1.35	Reference			FALSE	SAMN30962682	Host-associated
-Eubacterium ramulus	GCF_001406295.1	14a	Scaffold	3307376	3079	98.73	2.29	Reference			FALSE	SAMEA3545299	Host-associated
-Eubacterium oxidoreducens	GCF_900104415.1	14a	Scaffold	2912287	2708	99.36	2.55	Reference			FALSE	SAMN02910417	Host-associated
-Petralouisia muris	GCF_004793545.1	14a	Contig	5871761	6038	97.08	0.61	Reference			FALSE	SAMN10878285	Host-associated
-Roseburia faecis	GCF_001405615.1	14a	Scaffold	3567818	3607	82.34	11.15	Reference	X		TRUE	SAMEA3545271	Host-associated
-Roseburia porci	GCF_009695765.1	14a	Contig	2982004	2867	81.89	10.4	Reference	X		TRUE	SAMN12619163	Host-associated
-Lachnobacterium bovis	GCF_900107245.1	14a	Scaffold	2717066	2495	89.86	8.5	Reference	X		TRUE	SAMN02910414	Host-associated
-Agathobacter ruminis	GCF_002735305.1	14a	Contig	2858624	2669	97.71	0.42	Reference			FALSE	SAMN07811582	Host-associated
-Agathobacter rectalis	GCF_022453685.1	14a	Complete Genome	3451485	3373	98.57	0	Reference			FALSE	SAMN26036043	Host-associated
-Roseburia hominis	GCF_902387955.1	14a	Complete Genome	3592125	3347	97.48	0.86	Reference			FALSE	SAMEA5852022	Host-associated
-Roseburia intestinalis	GCF_900537995.1	14a	Complete Genome	4493348	4193	90.96	10.26	Reference	X		TRUE	SAMEA4878606	Host-associated
-Roseburia rectibacter	GCF_014287515.2	14a	Complete Genome	3959994	3631	89.13	11.62	Reference	X		TRUE	SAMN15808669	Host-associated
-Roseburia inulinivorans	GCF_020731525.1	14a	Contig	4227688	4010	98.44	2.41	Reference			FALSE	SAMN22091684	Host-associated
-Roseburia yibonii	GCF_014297335.1	14a	Contig	2712279	2718	79.47	6.38	Reference	X		TRUE	SAMN15808072	Host-associated
-Roseburia amylophila	GCF_025567465.1	14a	Scaffold	2871164	2765	81.09	8.83	Reference	X		TRUE	SAMN30962700	Host-associated
-Roseburia zhanii	GCF_014287635.1	14a	Contig	3504022	3291	80.82	9.71	Reference	X		TRUE	SAMN15808365	Host-associated
-Pseudobutyrivibrio xylanivorans	GCF_900141825.1	14a	Scaffold	3420924	3161	98.92	2.86	Reference			FALSE	SAMN02745725	Host-associated
-Pseudobutyrivibrio ruminis	GCF_900218035.1	14a	Contig	3020378	2818	96.87	4.79	Reference			FALSE	SAMN02910411	Host-associated
-Roseburia lenta	GCF_014287435.1	14a	Contig	2558168	2418	73.62	4.52	Reference	X		TRUE	SAMN15808071	Host-associated
-Shuttleworthella satelles	GCF_000160115.1	14a	Scaffold	2169477	1969	97.76	0.02	Reference			FALSE	SAMN00008860	Host-associated
-Gallintestinimicrobium propionicum	GCF_025567525.1	14a	Scaffold	3795992	3625	98.44	0.21	Reference			FALSE	SAMN30962690	Host-associated
-Eisenbergiella porci	GCF_009696275.1	14a	Contig	6105837	5979	98.44	1.35	Reference			FALSE	SAMN12619133	Host-associated
-Eisenbergiella massiliensis	GCF_003435485.1	14a	Scaffold	6692195	5745	98.44	0.73	Reference			FALSE	SAMN09736885	Host-associated
-Eisenbergiella tayi	GCF_001717125.1	14a	Scaffold	7516843	6435	98.75	2.6	Reference			FALSE	SAMN05449643	Host-associated
-Kineothrix alysoides	GCF_000732725.1	14a	Contig	4676087	4222	97.97	1.53	Reference			FALSE	SAMN02910261	Free-living
-Waltera intestinalis	GCF_009695995.1	14a	Contig	2970649	2798	96.88	0.62	Reference			FALSE	SAMN12619147	Host-associated
-Brotolimicola acetigignens	GCF_025567015.1	14a	Scaffold	4097696	3872	98.75	0	Reference			FALSE	SAMN30962680	Host-associated
-Simiaoa sunii	GCF_014337175.1	14a	Complete Genome	3572951	3328	98.75	0	Reference			FALSE	SAMN15805199	Host-associated
-Acetatifactor aquisgranensis	GCF_943193215.1	14a	Contig	5880648	5812	98.02	0.94	Reference			FALSE	SAMEA14418514	Host-associated
-Acetatifactor muris	GCF_900248245.1	14a	Contig	6013646	5861	98.12	3.02	Reference			FALSE	SAMEA3725555	Host-associated
-Suilimivivens aceti	GCF_025567405.1	14a	Scaffold	3334484	3278	99.06	0.83	Reference			FALSE	SAMN30962701	Host-associated
-Parablautia intestinalis	GCF_949738545.1	14a	Contig	3937088	3682	98.7	1.04	Reference			FALSE	SAMEA112815600	Host-associated
-Parablautia muri	GCF_009917485.1	14a	Contig	5152081	5136	97.92	3.18	Reference			FALSE	SAMN10053188	Host-associated
-Butyrivibrio proteoclasticus	GCF_000145035.1	14a	Complete Genome	4404886	3929	95.12	10.63	Reference	X		TRUE	SAMN02602973	Host-associated
-Butyrivibrio hungatei	GCF_001858005.1	14a	Complete Genome	3386314	3091	99.63	0	Reference			FALSE	SAMN05928573	Host-associated
-Butyrivibrio fibrisolvens	GCF_037113525.1	14a	Complete Genome	4934347	4205	93.7	8.29	Reference			FALSE	SAMN40258195	Host-associated
-Acetitomaculum ruminis	GCF_900112085.1	14a	Scaffold	3082721	2704	97.71	0.62	Reference			FALSE	SAMN05216249	Host-associated
-Lachnospira hominis	GCF_014287955.1	14a	Contig	2936761	2795	75.21	11.7	Reference	X		TRUE	SAMN15808051	Host-associated
-Eubacterium eligens	GCF_000146185.1	14a	Complete Genome	2831389	2738	77.26	13.08	Reference	X		TRUE	SAMN02603083	Host-associated
-Lachnospira pectinoschiza	GCF_900103815.1	14a	Scaffold	2704308	2354	91.8	4.16	Reference			FALSE	SAMN05216544	Host-associated
-Lachnospira multipara	GCF_000424105.1	14a	Scaffold	2871860	2598	98.5	0.64	Reference			FALSE	SAMN02440666	Host-associated
-Clostridium fimetarium	GCF_900111235.1	14a	Contig	4568183	4177	98.75	2.68	Reference			FALSE	SAMN05421659	Host-associated
-Butyrivibrio crossotus	GCF_902373805.1	14a	Scaffold	2496039	2493	89.11	3.13	Reference	X		TRUE	SAMEA5850822	Host-associated
-Eubacterium segne	GCF_014287775.1	14a	Contig	2929446	2755	95.38	3.82	Reference			FALSE	SAMN15808040	Host-associated
-Eubacterium ventriosum	GCF_003475105.1	14a	Scaffold	2761423	2501	99.36	0.64	Reference			FALSE	SAMN09734665	Host-associated
-Eubacterium uniforme	GCF_900167115.1	14a	Scaffold	2872342	2473	99.36	1.27	Reference			FALSE	SAMN02745111	Host-associated
-Bovifimicola ammoniilytica	GCF_025567085.1	14a	Scaffold	3027291	2784	99.12	0	Reference			FALSE	SAMN30962679	Host-associated
-Eubacterium ruminantium	GCF_900167085.1	14a	Scaffold	2841101	2564	98.41	1.27	Reference			FALSE	SAMN02745110	Host-associated
-Wujia chipingensis	GCF_014337155.1	14a	Complete Genome	2942917	2747	98.12	0.78	Reference			FALSE	SAMN15805198	Host-associated
-Coprococcus ammoniilyticus	GCF_025567345.1	14a	Scaffold	2912566	2583	75.1	11.35	Reference	X		TRUE	SAMN30962684	Host-associated
-Coprococcus aceti	GCF_025567285.1	14a	Scaffold	3235561	2921	74.07	14.84	Reference	X		TRUE	SAMN30962685	Host-associated
-Coprococcus eutactus	GCF_020735705.1	14a	Complete Genome	3113335	2728	75.52	14.52	Reference	X		TRUE	SAMN22091678	Host-associated
-Eubacterium xylanophilum	GCF_000518685.1	14a	Scaffold	2579248	2233	98.73	0	Reference			FALSE	SAMN02584969	Host-associated
-Jutongia huaianensis	GCF_014384985.1	14a	Contig	3067583	2810	98.12	0.62	Reference			FALSE	SAMN15805243	Host-associated
-Butyribacter intestini	GCF_027665565.1	14a	Scaffold	3449310	3012	97.2	0.62	Reference			FALSE	SAMN31808383	Host-associated
-Jutongia hominis	GCF_014384965.1	14a	Contig	2741145	2436	90	0.62	Reference			FALSE	SAMN15805242	Host-associated
-Catonella morbi	GCF_000160035.2	14a	Scaffold	3479204	3172	98.75	1.88	Reference			FALSE	SAMN02436865	Host-associated
-Catonella massiliensis	GCF_016651435.1	14a	Contig	3122925	2826	98.75	0.62	Reference			FALSE	SAMN17257549	Host-associated
-Anaerostipes butyraticus	GCF_016586355.1	14a	Contig	3173732	3279	98.12	1.88	Reference			FALSE	SAMD00220745	Host-associated
-Anaerostipes faecalis	GCF_018982945.1	14a	Contig	2544126	2597	97.5	3.02	Reference			FALSE	SAMN14986025	Host-associated
-Anaerostipes amylophilus	GCF_025567365.1	14a	Scaffold	2459729	2440	98.12	1.98	Reference			FALSE	SAMN30962672	Host-associated
-Anaerostipes hadrus	GCF_000210695.1	14a	Chromosome	3114788	3096	97.43	1.35	Reference			FALSE	SAMEA3138376	Host-associated
-Anaerostipes caccae	GCF_020181435.1	14a	Complete Genome	3284789	3325	98.75	3.33	Reference			FALSE	SAMN21163588	Host-associated
-Anaerostipes rhamnosivorans	GCF_005280655.1	14a	Complete Genome	3588860	3548	97.93	3.54	Reference			FALSE	SAMN11535143	Host-associated
-Anaerobutyricum soehngenii	GCF_009697165.1	14a	Contig	3194235	2890	98.75	1.67	Reference			FALSE	SAMN12619113	Host-associated
-Anaerobutyricum hallii	GCF_018140635.1	14a	Chromosome	3455681	3148	98.12	1.41	Reference			FALSE	SAMN18751769	Host-associated
-Catenibacillus scindens	GCF_014202115.1	14a	Scaffold	3872981	3573	97.6	1.34	Reference			FALSE	SAMN14908315	Host-associated
-Coprococcus catus	GCF_019734885.1	14a	Scaffold	3599035	3412	82.54	19.86	Reference	X		TRUE	SAMN14515131	Host-associated
-Frisingicoccus caecimuris	GCF_004340975.1	14a	Scaffold	2716364	2709	98.12	1.25	Reference			FALSE	SAMN10864766	Host-associated
-Massiliimalia massiliensis	GCF_900155615.1	4	Contig	2842720	2761	99.38	2.17	Reference			FALSE	SAMEA48259918	Host-associated
-Massiliimalia timonensis	GCF_900186585.1	4	Contig	2707061	2644	98.76	0.62	Reference			FALSE	SAMEA104125940	Host-associated
-Fumia xinanensis	GCF_014384905.1	4	Contig	2834305	2672	96.32	0.62	Reference			FALSE	SAMN15805197	Host-associated
-Huintestinicola butyrica	GCF_025567215.1	4	Scaffold	3013746	2933	99.38	0.62	Reference			FALSE	SAMN30962693	Host-associated
-Ruminococcus albus	GCF_000179635.2	4	Complete Genome	4482087	4130	97.37	0.61	Reference			FALSE	SAMN00016988	Free-living
-Ruminococcus bicirculans	GCF_000723465.1	4	Complete Genome	2968500	2811	97.52	0.07	Reference			FALSE	SAMEA3139031	Host-associated
-Hominimerdicola aceti	GCF_025567495.1	4	Scaffold	2965035	2851	98.76	0	Reference		X	TRUE	SAMN30962691	Host-associated
-Ruminococcus callidus	GCF_000468015.1	4	Scaffold	3096487	2910	95.66	1.52	Reference			FALSE	SAMN00627105	Host-associated
-Ruminococcus flavefaciens	GCF_000518765.1	4	Scaffold	3587803	3155	98.73	1.64	Reference			FALSE	SAMN02584965	Host-associated
-Porcipelethomonas ammoniilytica	GCF_025567485.1	4	Scaffold	2657141	2722	99.38	0	Reference			FALSE	SAMN30962699	Host-associated
-Ruminococcus champanellensis	GCF_000210095.1	4	Chromosome	2573208	2395	96.97	1.1	Reference			FALSE	SAMEA3138364	Host-associated
-Acetanaerobacterium elongatum	GCF_900103835.1	4	Scaffold	2916215	2845	99.38	0.31	Reference			FALSE	SAMN05192585	Free-living
-Zongyangia hominis	GCF_014385095.1	4	Contig	2561368	2359	98.14	0	Reference			FALSE	SAMN15805309	Host-associated
-Soleaferrea massiliensis	GCF_000820765.1	4	Contig	3098593	2501	99.09	0	Reference			FALSE	SAMEA2821497	Host-associated
-Angelakisella massiliensis	GCF_900104675.1	4	Scaffold	4041781	3928	98.94	0.08	Reference			FALSE	SAMEA4519310	Host-associated
-Yanshouia hominis	GCF_014385025.1	4	Contig	3258552	3273	97.52	1.32	Reference			FALSE	SAMN15805297	Host-associated
-Merdimmobilis hominis	GCF_900104615.1	4	Scaffold	2580742	2486	93.79	6.24	Reference			FALSE	SAMEA4519287	Host-associated
-Provencibacterium massiliense	GCF_900169495.1	4	Contig	3084227	2967	99.38	0.78	Reference			FALSE	SAMEA103910483	Host-associated
-Harryflintia acetispora	GCF_004340125.1	4	Scaffold	2932766	2783	98.76	0.78	Reference			FALSE	SAMN10362909	Host-associated
-Ligaoa zhengdingensis	GCF_014384885.1	4	Contig	2951177	2804	98.63	0.62	Reference			FALSE	SAMN15805174	Host-associated
-Hydrogenoanaerobacterium saccharovorans	GCF_003814745.1	4	Contig	3176247	2996	99.38	0.7	Reference			FALSE	SAMN10362785	Free-living
-Youxingia wuxianensis	GCF_014385085.1	4	Contig	2660737	2731	97.52	1.37	Reference			FALSE	SAMN15805310	Host-associated
-Marasmitruncus massiliensis	GCF_900186535.1	4	Contig	3761792	3632	99.38	0.08	Reference			FALSE	SAMEA104125748	Host-associated
-Anaerotruncus rubiinfantis	GCF_900078395.1	4	Contig	3409026	3388	97.52	2.22	Reference			FALSE	SAMEA3907616	Host-associated
-Anaerotruncus colihominis	GCF_023008305.1	4	Complete Genome	3508661	3474	99.38	0	Reference			FALSE	SAMN20819810	Host-associated
-Neobittarella massiliensis	GCF_900289145.1	4	Contig	3233519	2979	94.41	1.24	Reference			FALSE	SAMEA104572235	Host-associated
-Anaerofilum hominis	GCF_014287275.1	4	Contig	3136292	2771	96.89	1.24	Reference			FALSE	SAMN15805308	Host-associated
-Pygmaiobacter massiliensis	GCF_900199435.1	4	Contig	2804249	2696	96.27	0	Reference			FALSE	SAMEA104169285	Host-associated
-Ruthenibacterium lactatiformans	GCF_027666165.1	4	Scaffold	3883274	3661	98.14	0.07	Reference			FALSE	SAMN31809285	Host-associated
-Fournierella massiliensis	GCF_001486665.1	4	Scaffold	3829505	3685	98.76	0.21	Reference			FALSE	SAMEA3673149	Host-associated
-Gemmiger qucibialis	GCF_027689445.1	4	Scaffold	3494751	3158	99.12	0.88	Reference			FALSE	SAMN31809879	Host-associated
-Gemmiger formicilis	GCF_902363055.1	4	Scaffold	3012248	2725	97.37	0	Reference			FALSE	SAMEA5849585	Host-associated
-Gemmiger gallinarum	GCF_014982805.1	4	Contig	2955389	2751	99.12	0	Reference			FALSE	SAMN16401885	Host-associated
-Subdoligranulum variabile	GCF_025152575.1	4	Complete Genome	3244954	3073	99.38	0.62	Reference			FALSE	SAMN20222717	Host-associated
-Faecalibacterium gallinarum	GCF_022180365.1	4	Contig	2813415	2740	80.66	8.91	Reference	X		TRUE	SAMD00432541	Host-associated
-Faecalibacterium longum	GCF_020687245.1	4	Contig	2962236	2885	91.47	5.03	Reference			FALSE	SAMN22081889	Host-associated
-Faecalibacterium hattorii	GCF_003287455.1	4	Contig	2790636	2753	87.36	4.56	Reference	X		TRUE	SAMN08494062	Host-associated
-Faecalibacterium prausnitzii	GCF_000154385.1	4	Scaffold	3127383	3027	99.38	1.12	Reference			FALSE	SAMN02299416	Host-associated
-Faecalibacterium duncaniae	GCF_010509575.1	4	Complete Genome	3102523	3007	88.18	6.74	Reference	X		TRUE	SAMN13925611	Host-associated
-Solibaculum mannosilyticum	GCF_015140235.1	4	Complete Genome	2541474	2359	97.52	0.93	Reference			FALSE	SAMD00236452	Host-associated
-Ethanoligenens harbinense	GCF_000178115.2	4	Complete Genome	3008576	2870	99.38	0	Reference			FALSE	SAMN00008641	Free-living
-Eubacterium coprostanoligenes	GCF_900167205.1	4	Contig	1823434	1721	97.45	0	Reference			FALSE	SAMN02745114	Host-associated
-Pseudoruminococcus massiliensis	GCF_900291955.1	4	Contig	2428410	2273	98.25	0	Reference			FALSE	SAMEA104651786	Host-associated
-Ruminococcus difficilis	GCF_016680995.1	4	Contig	3705135	3487	86.46	23.73	Reference	X		TRUE	SAMN15808055	Host-associated
-Ruminococcus bovis	GCF_005601135.1	4	Complete Genome	2440231	2332	93.89	1.37	Reference			FALSE	SAMN11351985	Host-associated
-Ruminococcus intestinalis	GCF_014288065.1	4	Contig	2436182	2401	93.01	1.33	Reference			FALSE	SAMN15808720	Host-associated
-Ruminococcus bromii	GCF_025992865.1	4	Contig	2308568	2184	94.3	2.36	Reference			FALSE	SAMN31100396	Host-associated
-Yeguia hominis	GCF_014384705.1	4	Contig	2977335	2843	94.68	0	Reference			FALSE	SAMN15783660	Host-associated
-Scatolibacter rhodanostii	GCF_900197595.1	4	Contig	2702024	2515	97.2	1.24	Reference			FALSE	SAMEA104143832	Host-associated
-Hominenteromicrobium mulieris	GCF_020687165.1	4	Contig	2853755	2791	97.83	1.24	Reference			FALSE	SAMN22081893	Host-associated
-Acutalibacter muris	GCF_002201475.1	4	Chromosome	3802913	3978	98.25	0.22	Reference			FALSE	SAMN03856236	Host-associated
-Neglectibacter timonensis	GCF_900048895.1	4	Scaffold	3671597	3273	97.83	0.31	Reference			FALSE	SAMEA3869492	Host-associated
-Hydrogeniiclostridium mannosilyticum	GCF_003268275.1	4	Contig	3014016	2839	98.25	0	Reference			FALSE	SAMN09461903	Host-associated
-Anaeromassilibacillus senegalensis	GCF_001261775.1	4	Scaffold	3511751	3108	97.51	0	Reference			FALSE	SAMEA3750678	Host-associated
-Caproiciproducens faecalis	GCF_019448085.1	4	Contig	3007702	2926	98.25	0	Reference			FALSE	SAMN18354452	Host-associated
-Caproiciproducens galactitolivorans	GCF_029266045.1	4	Contig	2408423	2336	99.12	0	Reference			FALSE	SAMN23614951	Host-associated
-Clostridium minihomine	GCF_900240385.1	4	Contig	2705425	2596	95.5	1.24	Reference			FALSE	SAMEA104414647	Host-associated
-Faecalispora anaeroviscerum	GCF_947568225.1	4	Contig	2921941	2841	98.64	1.39	Reference			FALSE	SAMEA112150996	Host-associated
-Clostridium merdae	GCF_900176635.1	4	Contig	2748860	2690	95.6	1.24	Reference			FALSE	SAMEA103970044	Host-associated
-Faecalispora sporosphaeroides	GCF_015066675.1	4	Scaffold	2942092	2766	98.76	0.97	Reference			FALSE	SAMN11294836	Host-associated
-Faecalispora jeddahensis	GCF_030825295.1	4	Scaffold	3664078	3550	98.14	1.6	Reference			FALSE	SAMN31428362	Host-associated
-Thermocaproicibacter melissae	GCF_024498295.1	4	Complete Genome	1960795	1888	97.52	0.62	Reference			FALSE	SAMN29820939	Host-associated
-Caproicibacter fermentans	GCF_014303955.1	4	Complete Genome	3947358	3963	98.22	1.97	Reference			FALSE	SAMN14452107	Free-living
-Caproicibacterium lactatifermentans	GCF_013315815.1	4	Complete Genome	1989979	1947	98.69	0	Reference			FALSE	SAMN13254329	Free-living
-Caproicibacterium argilliputei	GCF_029211325.2	4	Complete Genome	2904997	2817	98.14	0.31	Reference			FALSE	SAMN33463556	Free-living
-Caproicibacterium amylolyticum	GCF_014467055.1	4	Complete Genome	2996201	2903	99.38	0.23	Reference			FALSE	SAMN15783688	Free-living
-Feifania hominis	GCF_014384765.1	4	Contig	2356956	2314	91.71	0	Reference			FALSE	SAMN15795569	Host-associated
-Butyricicoccus porcorum	GCF_002157465.1	4	Contig	2896918	2890	96.49	1.75	Reference			FALSE	SAMN06279795	Host-associated
-Butyricicoccus intestinisimiae	GCF_018918345.1	4	Contig	2711934	2709	98.25	0	Reference			FALSE	SAMN19374001	Host-associated
-Intestinibacillus massiliensis	GCF_900155735.1	4	Scaffold	2841380	2826	93.86	1.75	Reference			FALSE	SAMEA45751918	Host-associated
-Butyricicoccus pullicaecorum	GCF_002160355.1	4	Contig	2997778	2954	98.25	0	Reference			FALSE	SAMN06473645	Host-associated
-Butyricicoccus faecihominis	GCF_014648015.1	4	Scaffold	2995907	2943	99.12	0.88	Reference			FALSE	SAMD00245313	Host-associated
-Agathobaculum hominis	GCF_014288055.1	4	Contig	2563169	2490	99.12	0	Reference			FALSE	SAMN15808672	Host-associated
-Agathobaculum desmolans	GCF_000701665.1	4	Scaffold	2646896	2751	99.12	0.44	Reference			FALSE	SAMN02841159	Host-associated
-Agathobaculum massiliense	GCF_900291975.1	4	Contig	3218823	3303	99.12	1.54	Reference			FALSE	SAMEA104651846	Host-associated
-Agathobaculum faecis	GCF_014287995.1	4	Contig	3052159	3222	99.12	0.44	Reference			FALSE	SAMN15808673	Host-associated
-Agathobaculum ammoniilyticum	GCF_025567315.1	4	Scaffold	2999081	3102	99.12	0.44	Reference			FALSE	SAMN30962670	Host-associated
-Sporobacter termitidis	GCF_900130065.1	4	Scaffold	4198214	3895	98.14	2.67	Reference			FALSE	SAMN02745823	Host-associated
-Papillibacter cinnamivorans	GCF_900176335.1	4	Scaffold	2890610	2733	98.14	0.41	Reference			FALSE	SAMN02745168	Free-living
-Vescimonas fastidiosa	GCF_018326305.1	4	Complete Genome	2504406	2429	91.93	1.53	Reference			FALSE	SAMD00239550	Host-associated
-Brotocaccenecus cirricatena	GCF_020687045.1	4	Contig	3356827	3515	90.06	1.86	Reference			FALSE	SAMN22081899	Host-associated
-Vescimonas coprocola	GCF_018408575.1	4	Complete Genome	2557760	2494	91.93	1.32	Reference			FALSE	SAMD00239551	Host-associated
-Dysosmobacter acutus	GCF_018919205.1	4	Contig	3161374	3107	95.03	2.82	Reference			FALSE	SAMN19373996	Host-associated
-Oscillibacter hominis	GCF_014334055.1	4	Chromosome	2823823	2768	93.79	1.37	Reference			FALSE	SAMN15808715	Host-associated
-Dysosmobacter segnis	GCF_014297285.1	4	Contig	3671022	3898	94.62	0.62	Reference			FALSE	SAMN15808675	Host-associated
-Neopoerus faecalis	GCF_029218125.1	4	Contig	2542847	2522	96.27	0.62	Reference			FALSE	SAMN33549472	Host-associated
-Pusillibacter faecalis	GCF_018408705.1	4	Complete Genome	3407680	3459	98.14	0.75	Reference			FALSE	SAMD00239552	Host-associated
-Oscillibacter valericigenes	GCF_021531915.1	4	Contig	2493294	2508	98.14	1.69	Reference			FALSE	SAMN15872540	Host-associated
-Oscillibacter ruminantium	GCF_000307265.1	4	Scaffold	3108242	2987	98.76	1.14	Reference			FALSE	SAMD00036625	Host-associated
-Dysosmobacter welbionis	GCF_036321785.1	4	Contig	3381318	3316	97.52	1.55	Reference			FALSE	SAMN37976392	Host-associated
-Oscillibacter acetigenes	GCF_025567605.1	4	Scaffold	3346315	3283	98.14	1.55	Reference			FALSE	SAMN30962698	Host-associated
-Evtepia gabavorous	GCF_008121455.1	4	Contig	2494407	2431	97.81	0	Reference			FALSE	SAMN09258196	Host-associated
-Clostridium phoceensis	GCF_001244495.1	4	Scaffold	3453778	3441	91.91	1.24	Reference			FALSE	SAMEA3460838	Host-associated
-Flintibacter faecis	GCF_014287875.1	4	Contig	2849896	2795	95.26	0	Reference			FALSE	SAMN15808687	Host-associated
-Flintibacter muris	GCF_943192995.1	4	Contig	4522258	4748	99.12	2.41	Reference			FALSE	SAMEA14418546	Host-associated
-Muriventricola aceti	GCF_025567565.1	4	Scaffold	3071079	3212	98.76	1.45	Reference			FALSE	SAMN30962697	Host-associated
-Flintibacter hominis	GCF_014287965.1	4	Contig	2728146	2758	95.7	0	Reference			FALSE	SAMN15808688	Host-associated
-Vermiculatibacterium agrestimuris	GCF_943193085.1	4	Contig	2242112	2081	94.41	0.62	Reference			FALSE	SAMEA14418538	Host-associated
-Intestinimonas timonensis	GCF_900626145.1	4	Scaffold	3444574	3621	99.12	0	Reference			FALSE	SAMEA5138309	Host-associated
-Intestinimonas butyriciproducens	GCF_001940005.1	4	Contig	3200860	3185	97.37	1.75	Reference			FALSE	SAMN05726918	Host-associated
-Pseudoflavonifractor capillosus	GCF_000169255.2	4	Contig	4241076	4067	97.2	4.33	Reference			FALSE	SAMN00627059	Host-associated
-Lawsonibacter faecis	GCF_014287675.1	4	Contig	4054796	3551	98.14	2.15	Reference			FALSE	SAMN15808702	Host-associated
-Flavonifractor plautii	GCF_010508875.1	4	Complete Genome	3985392	3967	98.14	2.55	Reference			FALSE	SAMN13925609	Host-associated
-Lawsonibacter hominis	GCF_014287895.1	4	Contig	3499704	3436	95.03	2.07	Reference			FALSE	SAMN15808689	Host-associated
-Lawsonibacter celer	GCF_014281125.1	4	Contig	2623040	2514	98.76	3.11	Reference			FALSE	SAMN15808704	Host-associated
-Pseudoflavonifractor phocaeensis	GCF_016901735.1	4	Contig	3173161	3124	98.32	0.83	Reference			FALSE	SAMN14913584	Host-associated
-Pseudoflavonifractor gallinarum	GCF_014982855.1	4	Contig	3182492	3126	97.52	1.94	Reference			FALSE	SAMN16401881	Host-associated
-Pseudoflavonifractor hominis	GCF_014288125.1	4	Contig	3057742	3014	94.41	1.53	Reference			FALSE	SAMN15808717	Host-associated
-Congzhengia minquanensis	GCF_014384785.1	4	Contig	2802181	2652	96.89	0	Reference			FALSE	SAMN15805176	Host-associated
-Qingrenia yutianensis	GCF_014385105.1	4	Contig	2635915	2470	96.27	1.52	Reference			FALSE	SAMN15805311	Host-associated
-Hominilimicola fabiformis	GCF_020687385.1	4	Contig	3087174	2811	96.27	1.37	Reference			FALSE	SAMN22081883	Host-associated
-Ructibacterium gallinarum	GCF_014982785.1	4	Contig	3008341	2561	95.86	0.62	Reference			FALSE	SAMN16401886	Host-associated
-Monoglobus pectinilyticus	GCF_002874775.1	4	Chromosome	2759678	2325	99.09	0.91	Reference			FALSE	SAMN06817956	Host-associated
-Aristaeella lactis	GCF_018118585.1	4	Complete Genome	3450610	3097	95.61	0.29	Reference			FALSE	SAMN18022157	Host-associated
-Aristaeella hokkaidonensis	GCF_018128945.1	4	Complete Genome	3390518	3035	95.61	0.29	Reference			FALSE	SAMN18022257	Host-associated
-Borkfalkia ceftriaxoniphila	GCF_004134775.1	4	Scaffold	2608799	2332	94.51	0.03	Reference			FALSE	SAMN10786596	Host-associated
-Anaerocaecibacter muris	GCF_943192945.1	4	Contig	1970454	1749	95.18	0	Reference			FALSE	SAMEA14418527	Host-associated
-Pumilibacter intestinalis	GCF_943193005.1	4	Contig	2344908	2104	95.61	0	Reference			FALSE	SAMEA14418526	Host-associated
-Pumilibacter muris	GCF_943193045.1	4	Contig	2293417	2033	93.86	0	Reference			FALSE	SAMEA14418525	Host-associated
-Gehongia tenuis	GCF_014384795.1	4	Contig	2223526	2250	98.64	0	Reference			FALSE	SAMN15795571	Host-associated
-Maliibacterium massiliense	GCF_900604345.1	4	Complete Genome	2422126	2322	98.68	0.88	Reference			FALSE	SAMEA4979980	Host-associated
-Luoshenia tenuis	GCF_014384745.1	4	Contig	2655978	2480	98.64	0	Reference			FALSE	SAMN15783669	Host-associated
-Guopingia tenuis	GCF_014384805.1	4	Contig	2203091	2129	100	0.18	Reference			FALSE	SAMN15805079	Host-associated
-Christensenella timonensis	GCF_900087015.1	4	Contig	2650850	2483	98.68	0	Reference			FALSE	SAMEA3959561	Host-associated
-Christensenella hongkongensis	GCF_001507385.1	4	Contig	2797114	2656	98.86	0.91	Reference			FALSE	SAMN04209960	Host-associated
-Christensenella intestinihominis	GCF_001678845.1	4	Scaffold	3026655	2837	99.77	0	Reference			FALSE	SAMN05257102	Host-associated
-Christensenella tenuis	GCF_014287795.1	4	Contig	3025891	2890	99.77	0	Reference			FALSE	SAMN15806946	Host-associated
-Christensenella minuta	GCF_003628755.1	4	Complete Genome	2969292	2883	97.95	0	Reference			FALSE	SAMN06329641	Host-associated
-Bianquea renquensis	GCF_014384895.1	14b	Contig	3939669	3529	100	0.88	Reference			FALSE	SAMN15795570	Host-associated
-Anaeropeptidivorans aminofermentans	GCF_940670685.1	14b	Complete Genome	3757330	3177	95	3.96	Reference			FALSE	SAMEA14305876	Free-living
-Clostridium colinum	GCF_940677205.1	14b	Complete Genome	2035557	2021	88.75	4.89	Reference	X		TRUE	SAMEA14305874	Pathogen
-Chakrabartyella piscis	GCF_030067835.1	14b	Complete Genome	3403101	3088	91.88	0.51	Reference			FALSE	SAMN26000628	Host-associated
-Anaerotignum propionicum	GCF_001561955.1	14b	Complete Genome	3120417	3003	98.18	0	Reference			FALSE	SAMN04437875	Free-living
-Anaerotignum neopropionicum	GCF_001571775.1	14b	Contig	3194881	3046	99.09	5.91	Reference			FALSE	SAMN04437757	Free-living
-Anaerotignum lactatifermentans	GCF_014982935.1	14b	Contig	2922609	2936	99.09	0.91	Reference			FALSE	SAMN16401876	Host-associated
-Anaerotignum faecicola	GCF_003865035.1	14b	Contig	2520658	2476	99.09	0	Reference			FALSE	SAMD00141010	Host-associated
-Epulonipiscium viviparus	GCF_030708075.1	14b	Chromosome	3282271	2749	89.01	0.94	Reference	X		TRUE	SAMN32579803	Host-associated
-Sporanaerobium hydrogeniformans	GCF_002735925.1	14b	Contig	3743071	3519	98.54	2.66	Reference			FALSE	SAMN07832615	Free-living
-Cellulosilyticum ruminicola	GCF_001311925.1	14b	Contig	4060997	4079	90.76	1.82	Reference			FALSE	SAMD00000445	Host-associated
-Cellulosilyticum lentocellum	GCF_000178835.2	14b	Complete Genome	4714237	4384	98.18	0.91	Reference			FALSE	SAMN00013959	Free-living
-Zhenhengia yiwuensis	GCF_034093515.1	14b	Contig	3331223	3355	97.44	5.35	Reference			FALSE	SAMN37948664	Host-associated
-Niameybacter massiliensis	GCF_001282685.1	14b	Scaffold	4578674	4332	98.75	5.13	Reference			FALSE	SAMEA3501706	Host-associated
-Holtiella tumoricola	GCF_027857615.1	14b	Contig	4707720	4529	99.09	2.73	Reference		X	TRUE	SAMN32542663	Host-associated
-Defluviitalea raffinosedens	GCF_009765695.1	14b	Contig	3092142	2982	98.18	0.45	Reference			FALSE	SAMN13390157	Free-living
-Defluviitalea phaphyphila	GCF_001466305.1	14b	Scaffold	2539811	2495	99.09	0	Reference			FALSE	SAMN03165200	Free-living
-Petrocella atlantisensis	GCF_900538275.1	14b	Complete Genome	3518882	3283	99.09	1.36	Reference			FALSE	SAMEA4890528	Free-living
-Anaerotalea alkaliphila	GCF_010179735.1	14b	Contig	2980040	2866	98.25	0.88	Reference			FALSE	SAMN13927516	Free-living
-Natranaerovirga pectinivora	GCF_004342165.1	14b	Scaffold	3061098	2922	100	0.88	Reference			FALSE	SAMN10363399	Free-living
-Natranaerovirga hydrolytica	GCF_004339095.1	14b	Contig	2984055	2827	99.12	0	Reference			FALSE	SAMN10363438	Free-living
-Vallitalea okinawensis	GCF_002964605.1	14b	Scaffold	5859119	5302	99.09	5.45	Reference			FALSE	SAMN08358016	Free-living
-Vallitalea pronyensis	GCF_018141445.1	14b	Complete Genome	6325483	5297	98.18	5.91	Reference			FALSE	SAMN14689427	Free-living
-Vallitalea longa	GCF_027923465.1	14b	Contig	5707491	4998	99.09	6.52	Reference			FALSE	SAMD00467989	Free-living
-Vallitalea guaymasensis	GCF_018141425.1	14b	Complete Genome	5626074	4840	99.09	6.36	Reference			FALSE	SAMN14689426	Free-living
+Species	Genome_accession	Taxonomic_cluster	Assembly_level	Size (bp)	No. genes	Completeness (%)	Contamination (%)	Status	Failed_checkM	Failed_Mash	Failed_QC
+Clostridium swellfunianum	GCF_023656515.1	1	Contig	4763217	4487	97.18	4.36	Reference			FALSE
+Clostridium rhizosphaerae	GCF_016765585.1	1	Scaffold	4849201	4691	99.38	5.69	Reference			FALSE
+Clostridium caldaquaticum	GCF_023806125.1	1	Scaffold	2978709	2862	97.29	0.04	Reference			FALSE
+Clostridium prolinivorans	GCF_004011155.1	1	Contig	2615293	2489	100	1.24	Reference			FALSE
+Clostridium thermarum	GCF_006351925.1	1	Complete Genome	3805212	3611	97.52	1.24	Reference			FALSE
+Clostridium oryzae	GCF_002029235.1	1	Contig	5074802	4644	98.76	5.01	Reference			FALSE
+Clostridium algoriphilum	GCF_020443705.1	1	Contig	4520579	4475	99.69	2.28	Reference			FALSE
+Clostridium lacusfryxellense	GCF_018861735.1	1	Contig	5405903	5186	97.83	2.38	Reference			FALSE
+Clostridium frigoris	GCF_018861865.1	1	Contig	4121528	3959	93.73	1.24	Reference			FALSE
+Clostridium estertheticum	GCF_030585465.1	1	Complete Genome	4942908	4731	99.69	1.37	Reference			FALSE
+Clostridium frigoriphilum	GCF_036541405.1	1	Contig	5105439	4941	99.38	0.83	Reference			FALSE
+Clostridium psychrophilum	GCF_018861705.1	1	Contig	4116200	3945	99.69	1.99	Reference			FALSE
+Clostridium tagluense	GCF_026650945.1	1	Complete Genome	5450588	5114	98.76	2.17	Reference			FALSE
+Clostridium bowmanii	GCF_020176155.1	1	Contig	4882709	4691	99.38	0.66	Reference			FALSE
+Clostridium arbusti	GCF_000246895.1	1	Contig	3970278	3776	98.55	1.4	Reference			FALSE
+Clostridium pasteurianum	GCF_001856695.1	1	Complete Genome	4351863	4115	98.42	0.81	Reference			FALSE
+Clostridium acidisoli	GCF_900176305.1	1	Contig	3999957	3973	99.38	1.24	Reference			FALSE
+Clostridium akagii	GCF_000686725.1	1	Scaffold	4589511	4435	98.14	2.07	Reference			FALSE
+Clostridium hydrogenum	GCF_021432385.1	1	Contig	5501482	4960	99.38	4.24	Reference			FALSE
+Clostridium guangxiense	GCF_021043395.1	1	Scaffold	4408532	4179	100	0.93	Reference			FALSE
+Clostridium acetobutylicum	GCF_000218855.1	1	Complete Genome	4145581	3988	97.81	0.88	Reference			FALSE
+Clostridium felsineum	GCF_002006355.2	1	Complete Genome	5242194	4859	100	1.83	Reference			FALSE
+Clostridium kluyveri	GCF_000010265.1	1	Complete Genome	3955303	3920	98.6	0.82	Reference			FALSE
+Clostridium autoethanogenum	GCF_001484725.1	1	Complete Genome	4352446	4044	98.76	1.86	Reference			FALSE
+Clostridium ljungdahlii	GCF_000143685.1	1	Complete Genome	4630065	4337	98.76	1.86	Reference			FALSE
+Clostridium ragsdalei	GCF_001675165.1	1	Contig	4424992	4070	98.45	1.24	Reference			FALSE
+Clostridium luticellarii	GCF_002995845.1	1	Contig	3754778	3737	98.6	0	Reference			FALSE
+Clostridium aromativorans	GCF_020908015.1	1	Contig	3881051	3793	99.38	1.52	Reference			FALSE
+Clostridium algifaecis	GCF_017874415.1	1	Contig	2964918	2900	99.07	1.24	Reference			FALSE
+Clostridium tyrobutyricum	GCF_001642655.1	1	Complete Genome	3134437	3161	99.07	0.78	Reference			FALSE
+Clostridium fermenticellae	GCF_003600355.1	1	Complete Genome	2819963	2646	98.76	0.16	Reference			FALSE
+Clostridium carboxidivorans	GCF_001038625.1	1	Complete Genome	5752782	5287	99.38	3.42	Reference			FALSE
+Clostridium drakei	GCF_003096175.1	1	Complete Genome	5695241	5171	99.38	2.48	Reference			FALSE
+Clostridium scatologenes	GCF_000968375.1	1	Complete Genome	5749410	5308	98.55	3.31	Reference			FALSE
+Clostridium muellerianum	GCF_012926525.1	1	Scaffold	5645749	5217	100	3.11	Reference			FALSE
+Clostridium thailandense	GCF_019207025.1	1	Contig	6484535	5924	99.38	2.33	Reference			FALSE
+Clostridium magnum	GCF_900129955.1	1	Scaffold	6472246	6313	98.76	5.82	Reference			FALSE
+Clostridium aciditolerans	GCF_016316925.1	1	Scaffold	5262995	4957	93.79	2.8	Reference			FALSE
+Clostridium liquoris	GCF_002995785.1	1	Contig	2876197	2908	98.76	0	Reference			FALSE
+Clostridium lundense	GCF_000619945.1	1	Scaffold	4753597	4610	99.38	0.36	Reference			FALSE
+Clostridium mobile	GCF_018918285.1	1	Contig	4014245	4041	93.95	0.62	Reference			FALSE
+Clostridium rectalis	GCF_900626095.1	1	Contig	3279426	3251	99.38	0.47	Reference			FALSE
+Clostridium tetanomorphum	GCF_013296705.1	1	Contig	4475070	4336	98.76	1.24	Reference			FALSE
+Clostridium tetani	GCF_000007625.1	1	Complete Genome	2873333	2864	98.14	0.16	Reference			FALSE
+Clostridium cochlearium	GCF_900187165.1	1	Complete Genome	2435419	2445	96.89	0.78	Reference			FALSE
+Clostridium pascui	GCF_016908015.1	1	Contig	3828744	3828	99.38	2.09	Reference			FALSE
+Clostridium peptidivorans	GCF_900205925.1	1	Contig	3524229	3545	99.38	0.78	Reference			FALSE
+Clostridium combesii	GCF_002749945.1	1	Scaffold	3892013	3660	98.76	0	Reference		X	TRUE
+Clostridium tepidum	GCF_002008345.1	1	Contig	3074397	2899	99.38	0	Reference			FALSE
+Clostridium botulinum	GCF_000063585.1	1	Complete Genome	3903260	3699	99.41	0.17	Reference			FALSE
+Clostridium sporogenes	GCF_020450145.1	1	Chromosome	4246123	3980	93.44	1.61	Reference			FALSE
+Clostridium niameyense	GCF_001243045.1	1	Scaffold	2542842	2490	98.76	0	Reference			FALSE
+Clostridium acetireducens	GCF_001758365.1	1	Contig	2424212	2350	99.07	1.86	Reference			FALSE
+Clostridium novyi	GCF_003614235.1	1	Complete Genome	2499078	2431	98.76	0.78	Reference			FALSE
+Clostridium haemolyticum	GCF_000724225.2	1	Contig	2607656	2706	98.76	0.16	Reference			FALSE
+Clostridium massiliodielmoense	GCF_900176615.1	1	Contig	2759335	2765	100	0	Reference			FALSE
+Clostridium thermopalmarium	GCF_002995795.1	1	Contig	2819317	2781	100	0.16	Reference		X	TRUE
+Clostridium colicanis	GCF_001593985.1	1	Contig	2619501	2640	100	0.16	Reference			FALSE
+Clostridium homopropionicum	GCF_900113195.1	1	Scaffold	3644832	3638	100	1.45	Reference			FALSE
+Clostridium brassicae	GCF_026738875.1	1	Scaffold	4097941	3880	98.14	0.62	Reference			FALSE
+Clostridium aestuarii	GCF_026735135.1	1	Scaffold	3582181	3358	99.38	1.39	Reference			FALSE
+Clostridium ganghwense	GCF_026735165.1	1	Scaffold	4118181	3992	98.76	1.37	Reference			FALSE
+Clostridium grantii	GCF_900129965.1	1	Scaffold	4474501	4287	100	0.88	Reference			FALSE
+Hathewaya histolytica	GCF_901482605.1	1	Complete Genome	2740791	2692	98.31	2.76	Reference			FALSE
+Hathewaya massiliensis	GCF_902143515.1	1	Contig	3058214	2954	98.31	4.87	Reference			FALSE
+Hathewaya limosa	GCF_030815255.1	1	Contig	3052708	2803	96.07	4.12	Reference			FALSE
+Hathewaya proteolytica	GCF_900142225.1	1	Scaffold	2818024	2751	97.13	4.02	Reference			FALSE
+Clostridium collagenovorans	GCF_900130005.1	1	Scaffold	3482404	3079	98.76	0.72	Reference			FALSE
+Clostridium tepidiprofundi	GCF_001594005.1	1	Contig	3060113	2926	98.14	0.28	Reference			FALSE
+Oceanirhabdus seepicola	GCF_023684385.1	1	Scaffold	5335032	4901	97	13.98	Reference	X		TRUE
+Haloimpatiens lingqiaonensis	GCF_901447495.1	1	Contig	3295388	3082	97.57	5.31	Reference			FALSE
+Haloimpatiens massiliensis	GCF_900184255.1	1	Scaffold	4215834	3890	98.88	10.32	Reference	X		TRUE
+Clostridium argentinense	GCF_002074155.1	1	Complete Genome	4803058	4426	99.84	6.54	Reference			FALSE
+Clostridium faecium	GCF_014836835.1	1	Contig	3853386	3654	99.38	2.07	Reference			FALSE
+Clostridium ihumii	GCF_000612845.1	1	Contig	4433668	4164	99.38	1.86	Reference		X	TRUE
+Clostridium senegalense	GCF_018916625.1	1	Contig	3841299	3533	99.69	1.24	Reference			FALSE
+Clostridium tunisiense	GCF_000300195.1	1	Contig	4308385	4068	97.52	5.42	Reference			FALSE
+Clostridium punense	GCF_017874425.1	1	Contig	4712543	4312	100	5.75	Reference			FALSE
+Clostridium culturomicium	GCF_000821305.1	1	Contig	4325182	4223	98.91	3.11	Reference			FALSE
+Clostridium sulfidigenes	GCF_000732635.1	1	Contig	3717420	3728	94.72	3.83	Reference			FALSE
+Clostridium cellulovorans	GCF_000145275.1	1	Complete Genome	5262222	4510	98.45	2.07	Reference			FALSE
+Clostridium bornimense	GCF_000577895.1	1	Complete Genome	3617025	3384	98.76	2.74	Reference			FALSE
+Clostridium fungisolvens	GCF_014193895.1	1	Contig	5283768	4686	99.38	3	Reference			FALSE
+Clostridium zeae	GCF_017312485.1	1	Scaffold	5839723	5210	99.38	4.87	Reference			FALSE
+Clostridium yunnanense	GCF_016595795.1	1	Scaffold	5715103	5168	99.38	3.62	Reference			FALSE
+Clostridium folliculivorans	GCF_024341905.1	1	Scaffold	5358041	4781	98.76	3.93	Reference			FALSE
+Clostridium manihotivorum	GCF_004015185.1	1	Complete Genome	6364326	5740	99.38	5.33	Reference			FALSE
+Clostridium polyendosporum	GCF_018332455.1	1	Scaffold	3735488	3567	100	0.72	Reference			FALSE
+Clostridium fallax	GCF_900129365.1	1	Contig	2747337	2598	98.45	0.16	Reference			FALSE
+Clostridium taeniosporum	GCF_001735765.2	1	Complete Genome	3503506	3235	98.55	0	Reference			FALSE
+Clostridium cagae	GCF_900290265.1	1	Contig	3738409	3512	98.76	0	Reference			FALSE
+Clostridium weizhouense	GCF_019431045.1	1	Contig	3962696	3627	99.07	0.31	Reference			FALSE
+Clostridium uliginosum	GCF_900112485.1	1	Scaffold	4080971	3601	99.38	0.62	Reference			FALSE
+Clostridium gelidum	GCF_019977655.1	1	Complete Genome	6041432	5582	100	0.54	Reference			FALSE
+Clostridium saccharobutylicum	GCF_000473995.1	1	Complete Genome	5107814	4538	99.38	0.62	Reference			FALSE
+Clostridium beijerinckii	GCF_018223745.1	1	Complete Genome	5950247	5334	91.8	6.46	Reference			FALSE
+Clostridium diolis	GCF_008705175.1	1	Complete Genome	5940808	5284	99.38	0.62	Reference			FALSE
+Clostridium saccharoperbutylacetonicum	GCF_000340885.1	1	Complete Genome	6666445	5997	99.38	2.8	Reference			FALSE
+Clostridium chromiireducens	GCF_003575225.1	1	Scaffold	5843819	5383	99.38	0.41	Reference			FALSE
+Clostridium puniceum	GCF_002006345.1	1	Contig	6082167	5524	99.38	0.93	Reference			FALSE
+Clostridium butyricum	GCF_001886875.1	1	Complete Genome	4639914	4230	97.21	1.51	Reference			FALSE
+Clostridium neonatale	GCF_900465025.1	1	Contig	4739640	4298	99.38	0.62	Reference			FALSE
+Clostridium vincentii	GCF_002995745.1	1	Contig	3505833	3517	98.14	1.35	Reference			FALSE
+Clostridium cibarium	GCF_014836335.1	1	Scaffold	4256035	3902	98.76	0.8	Reference			FALSE
+Clostridium paraputrificum	GCF_000424025.1	1	Scaffold	3561289	3548	99.38	0.31	Reference			FALSE
+Eubacterium multiforme	GCF_030813415.1	1	Contig	3318204	3277	97.77	4.33	Reference			FALSE
+Clostridium moniliforme	GCF_017873235.1	1	Contig	2605467	2569	98.76	0.8	Reference			FALSE
+Clostridium sardiniense	GCF_019753795.1	1	Contig	3942322	3871	100	2.19	Reference			FALSE
+Clostridium baratii	GCF_001991075.2	1	Complete Genome	3211717	3115	98.76	0.95	Reference			FALSE
+Clostridium thermobutyricum	GCF_000371465.1	1	Scaffold	3505620	3362	99.07	0.62	Reference			FALSE
+Clostridium chrysemydis	GCF_015234215.1	1	Contig	3431939	3454	99.69	0.78	Reference			FALSE
+Clostridium lamae	GCF_033043255.1	1	Contig	3854040	3681	99.69	1.86	Reference			FALSE
+Clostridium gallinarum	GCF_014836325.1	1	Scaffold	3426635	3246	97.83	0.62	Reference			FALSE
+Clostridium sartagoforme	GCF_004794105.1	1	Contig	3753752	3400	97.83	1.24	Reference			FALSE
+Clostridium isatidis	GCF_002285495.1	1	Complete Genome	2869927	2785	95.96	1.55	Reference			FALSE
+Clostridium nigeriense	GCF_900086595.1	1	Scaffold	3799489	3687	99.69	2.53	Reference			FALSE
+Clostridium tertium	GCF_902373955.1	1	Scaffold	3813122	3629	100	0.93	Reference			FALSE
+Clostridium gasigenes	GCF_017348895.1	1	Complete Genome	4132257	3888	97.52	0.62	Reference			FALSE
+Clostridium septicum	GCF_003606265.1	1	Complete Genome	3404718	3242	98.51	0	Reference			FALSE
+Clostridium chauvoei	GCF_002327205.1	1	Complete Genome	2889569	2743	98.76	0	Reference			FALSE
+Clostridium disporicum	GCF_001405015.1	1	Scaffold	3449564	3319	97.83	1.71	Reference			FALSE
+Clostridium hominis	GCF_014287825.1	1	Contig	4155764	4090	91.8	2.95	Reference			FALSE
+Clostridium lentum	GCF_014287815.1	1	Contig	2691116	2638	93.14	1.09	Reference			FALSE
+Clostridium celatum	GCF_021412605.1	1	Scaffold	3639821	3396	98.14	0.87	Reference			FALSE
+Clostridium saudiense	GCF_000577815.1	1	Contig	3653762	3528	99.07	2.33	Reference			FALSE
+Clostridium cuniculi	GCF_004353185.1	1	Contig	4152105	4116	99.38	0.9	Reference			FALSE
+Clostridium intestinale	GCF_035905475.1	1	Complete Genome	4686421	4704	99.38	2.07	Reference			FALSE
+Clostridium paridis	GCF_016765615.1	1	Scaffold	4080554	4079	99.28	1.55	Reference			FALSE
+Inconstantimicrobium porci	GCF_009696465.1	1	Contig	3206647	3235	96.91	8.14	Reference			FALSE
+Sarcina ventriculi	GCF_902362755.1	1	Scaffold	2457263	2316	89.78	5.06	Reference	X		TRUE
+Clostridium perfringens	GCF_020138775.1	1	Complete Genome	3275424	2975	96.27	4.98	Reference			FALSE
+Clostridium mediterraneense	GCF_902376185.1	1	Scaffold	3083338	2842	98.14	3.26	Reference			FALSE
+Clostridium massiliamazoniense	GCF_001403635.1	1	Scaffold	3732966	3508	97.52	0.62	Reference			FALSE
+Clostridium tarantellae	GCF_009295725.1	1	Contig	3979886	3535	98.76	0.78	Reference		X	TRUE
+Clostridium cavendishii	GCF_900141845.1	1	Scaffold	4987666	4599	98.76	2.07	Reference			FALSE
+Clostridium algidicarnis	GCF_000703125.1	1	Contig	3060291	2883	99.38	0.21	Reference			FALSE
+Clostridium putrefaciens	GCF_900461105.1	1	Contig	3121953	2928	99.38	0.93	Reference			FALSE
+Clostridium simiarum	GCF_018919175.1	1	Contig	3798665	3519	95.84	1.66	Reference			FALSE
+Desnuesiella massiliensis	GCF_001403615.1	1	Scaffold	5503198	5319	99.44	17.87	Reference	X		TRUE
+Clostridium amylolyticum	GCF_900142075.1	1	Scaffold	4262456	4086	99.59	3.62	Reference			FALSE
+Clostridium polynesiense	GCF_902375345.1	1	Contig	3560738	3590	94.16	1.4	Reference			FALSE
+Clostridium cadaveris	GCF_020911725.1	1	Complete Genome	3625784	3524	99.38	0.31	Reference			FALSE
+Clostridium frigidicarnis	GCF_900111985.1	1	Scaffold	4337414	3985	99.38	0.62	Reference			FALSE
+Clostridium hydrogeniformans	GCF_000686705.1	1	Scaffold	4101506	3798	99.38	3.02	Reference			FALSE
+Herbinix hemicellulosilytica	GCF_002904165.1	14a	Contig	3036611	2710	95.42	1.03	Reference			FALSE
+Herbinix luporum	GCF_900070325.1	14a	Complete Genome	2609352	2436	94.79	1.46	Reference			FALSE
+Mobilitalea sibirica	GCF_015999265.1	14a	Contig	3847436	3428	97.92	1.22	Reference			FALSE
+Variimorphobacter saccharofermentans	GCF_014174405.1	14a	Contig	4163427	3654	98.54	1.34	Reference			FALSE
+Mobilisporobacter senegalensis	GCF_003752155.1	14a	Contig	4039008	3678	98.12	2.28	Reference			FALSE
+Anaeromicropila populeti	GCF_900112775.1	14a	Scaffold	4222819	3789	98.12	2.8	Reference			FALSE
+Clostridium polysaccharolyticum	GCF_900111595.1	14a	Scaffold	3458343	3093	98.75	2.34	Reference			FALSE
+Velocimicrobium porci	GCF_009696045.1	14a	Contig	3095654	2955	98.75	0.21	Reference			FALSE
+Acetivibrio ethanolgignens	GCF_001461035.1	14a	Scaffold	3660245	3762	98.76	0.28	Reference			FALSE
+Anaeromicropila herbilytica	GCF_016591975.1	14a	Complete Genome	5089009	4345	98.12	2.59	Reference			FALSE
+Anaerosporobacter mobilis	GCF_900142955.1	14a	Scaffold	5217774	4632	98.75	3.94	Reference			FALSE
+Anaerosporobacter faecicola	GCF_012070565.1	14a	Contig	4589105	4073	98.75	4.53	Reference			FALSE
+Anaerocolumna xylanovorans	GCF_900143645.1	14a	Scaffold	5420325	4729	97.92	3.2	Reference			FALSE
+Anaerocolumna jejuensis	GCF_900142215.1	14a	Scaffold	6621268	5751	97.92	6.34	Reference			FALSE
+Anaerocolumna chitinilytica	GCF_014218355.1	14a	Complete Genome	5621910	4935	97.92	3.23	Reference			FALSE
+Anaerocolumna cellulosilytica	GCF_014218335.1	14a	Complete Genome	5430627	4530	97.92	2.59	Reference			FALSE
+Anaerocolumna sedimenticola	GCF_009931695.1	14a	Complete Genome	5500435	5028	92.03	3.1	Reference			FALSE
+Anaerocolumna aminovalerica	GCF_900205915.1	14a	Contig	4589939	4032	97.92	2.9	Reference			FALSE
+Lachnoclostridium phytofermentans	GCF_000018685.1	14a	Complete Genome	4847594	4119	97.92	4.17	Reference			FALSE
+Konateibacter massiliensis	GCF_900184995.1	14a	Scaffold	4260837	3903	99.38	1.34	Reference			FALSE
+Galacturonibacter soehngenii	GCF_008830185.1	14a	Contig	4097813	3823	98.75	1.03	Reference			FALSE
+Lachnotalea glycerini	GCF_003201285.1	14a	Scaffold	4864689	4382	99.38	4.15	Reference			FALSE
+Suonthocola fibrivorans	GCF_025567445.1	14a	Scaffold	5880143	5113	99.29	3.84	Reference			FALSE
+Diplocloster agilis	GCF_019042275.1	14a	Scaffold	5719309	4969	99.91	1.96	Reference			FALSE
+Diplocloster modestus	GCF_019042245.1	14a	Scaffold	5576960	4974	99.29	2.8	Reference			FALSE
+Anaerobium acetethylicum	GCF_900096945.1	14a	Scaffold	4609043	4035	98.75	1.56	Reference			FALSE
+Anaerosacchariphilus polymeriproducens	GCF_003363435.1	14a	Contig	3815928	3673	98.75	2.9	Reference			FALSE
+Parasporobacterium paucivorans	GCF_900141895.1	14a	Contig	2443757	2446	97.5	1.25	Reference			FALSE
+Clostridium transplantifaecale	GCF_900626075.1	14a	Contig	5650377	4932	99.38	1.55	Reference			FALSE
+Clostridium symbiosum	GCF_008632235.1	14a	Scaffold	5072209	4525	93.13	5.17	Reference			FALSE
+Otoolea muris	GCF_943193115.1	14a	Contig	5475820	5481	98.75	2.92	Reference			FALSE
+Clostridium segne	GCF_014287925.1	14a	Contig	3098902	2840	97.82	0.62	Reference			FALSE
+Clostridium fessum	GCF_027698965.1	14a	Scaffold	3109172	2857	100	0.62	Reference			FALSE
+Clostridium vitabionis	GCF_015351765.1	14a	Scaffold	2863412	2640	91.51	1.24	Reference			FALSE
+Clostridium aminophilum	GCF_900112885.1	14a	Scaffold	3113820	2657	97.41	0.62	Reference			FALSE
+Enterocloster hominis	GCF_014385265.1	14a	Contig	2775296	2587	95	0.21	Reference			FALSE
+Alitiscatomonas aceti	GCF_025567195.1	14a	Scaffold	3399574	3331	98.12	0.1	Reference			FALSE
+Moryella indoligenes	GCF_030812885.1	14a	Contig	2503313	2414	96.35	0.31	Reference			FALSE
+Stomatobaculum longum	GCF_000242235.1	14a	Scaffold	2313632	2164	96.89	0.31	Reference			FALSE
+Oribacterium asaccharolyticum	GCF_000238075.1	14a	Scaffold	2520584	2282	99.17	0.1	Reference			FALSE
+Oribacterium parvum	GCF_000238055.2	14a	Scaffold	2470863	2197	99.34	0.47	Reference			FALSE
+Oribacterium sinus	GCF_014202695.1	14a	Scaffold	2727810	2398	96.49	3.08	Reference			FALSE
+Lachnoanaerobaculum gingivalis	GCF_003862475.1	14a	Contig	3097953	2890	99.38	0	Reference			FALSE
+Lachnoanaerobaculum orale	GCF_003862485.1	14a	Scaffold	2800999	2647	99.38	0.31	Reference			FALSE
+Lachnoanaerobaculum saburreum	GCF_000185385.1	14a	Scaffold	3082404	2895	96.32	0.22	Reference			FALSE
+Lachnoanaerobaculum umeaense	GCF_003589745.1	14a	Complete Genome	2810441	2626	99.38	0.31	Reference			FALSE
+Johnsonella ignava	GCF_000235445.1	14a	Scaffold	2687075	2422	96.35	0	Reference			FALSE
+Clostridium indolis	GCF_000526995.1	14a	Contig	6383701	5810	98.06	2.59	Reference			FALSE
+Clostridium methoxybenzovorans	GCF_000421505.1	14a	Contig	7085377	6594	98.06	3.21	Reference			FALSE
+Lacrimispora sphenoides	GCF_900461315.1	14a	Contig	5309474	4809	98.68	2.9	Reference			FALSE
+Clostridium celerecrescens	GCF_002797975.1	14a	Contig	5272838	4788	98.06	2.28	Reference			FALSE
+Clostridium saccharolyticum	GCF_000144625.1	14a	Complete Genome	4662871	4327	99.31	1.03	Reference			FALSE
+Clostridium boliviensis	GCF_033342255.1	14a	Contig	5275533	5146	98.65	3.28	Reference		X	TRUE
+Lacrimispora amygdalina	GCF_900205965.1	14a	Contig	5477561	5236	98.68	5.09	Reference			FALSE
+Hungatella xylanolytica	GCF_002934545.1	14a	Contig	5629247	5340	93.78	15.15	Reference	X		TRUE
+Lacrimispora defluvii	GCF_013036995.1	14a	Contig	5624842	5425	98.68	4.36	Reference			FALSE
+Clostridium indicum	GCF_003432035.1	14a	Scaffold	5946122	5748	99.28	1.35	Reference			FALSE
+Lacrimispora xylanolytica	GCF_026723765.1	14a	Complete Genome	4516221	4165	98.06	1.65	Reference			FALSE
+Clostridium aerotolerans	GCF_000687555.1	14a	Contig	4732373	4391	98.06	2.59	Reference			FALSE
+Lacrimispora algidixylanolytica	GCF_003609635.1	14a	Contig	4639933	4300	98.68	3.39	Reference			FALSE
+Hungatella effluvii	GCF_003201875.1	14a	Scaffold	6863335	5989	93.94	21.67	Reference	X		TRUE
+Hungatella hominis	GCF_014288005.1	14a	Contig	7159456	6531	91.46	23.51	Reference	X		TRUE
+Hungatella hathewayi	GCF_009721605.1	14a	Contig	6646572	5952	94.32	18.79	Reference	X		TRUE
+Enterocloster bolteae	GCF_000371705.1	14a	Scaffold	6377378	5887	98.12	0.54	Reference			FALSE
+Enterocloster clostridioformis	GCF_012273195.1	14a	Chromosome	5539047	5486	98.75	3.01	Reference			FALSE
+Enterocloster citroniae	GCF_900115855.1	14a	Scaffold	6043725	5457	98.75	2.9	Reference			FALSE
+Clostridium porci	GCF_009696375.1	14a	Contig	4224091	4109	98.76	0.94	Reference			FALSE
+Enterocloster alcoholdehydrogenati	GCF_013282095.1	14a	Contig	3806033	3588	98.44	0.71	Reference			FALSE
+Lachnoclostridium pacaense	GCF_900566185.1	14a	Scaffold	2672202	2436	36.37	1.46	Reference	X		TRUE
+Enterocloster lavalensis	GCF_902364025.1	14a	Scaffold	6502696	5823	98.75	5.6	Reference			FALSE
+Clostridium asparagiforme	GCF_025149125.1	14a	Complete Genome	6353279	5725	98.44	5.07	Reference			FALSE
+Lachnoclostridium edouardi	GCF_900240245.1	14a	Contig	3329949	3207	99.38	0.62	Reference			FALSE
+Brotaphodocola catenula	GCF_020686985.1	14a	Contig	3322202	2950	96.89	0.62	Reference			FALSE
+Fusibacillus kribbianus	GCF_030053595.1	14a	Scaffold	2906142	2825	98.54	2.08	Reference			FALSE
+Lientehia hominis	GCF_021044755.1	14a	Contig	3049388	2883	97.92	0.78	Reference			FALSE
+Qiania dongpingensis	GCF_014337195.1	14a	Complete Genome	3084832	2897	97.92	0.62	Reference			FALSE
+Hominifimenecus microfluidus	GCF_020687485.1	14a	Contig	3985039	3710	96.67	1.25	Reference			FALSE
+Cuneatibacter caecimuris	GCF_004216775.1	14a	Scaffold	3462725	3268	98.75	1.01	Reference			FALSE
+Anthropogastromicrobium aceti	GCF_020687335.1	14a	Contig	3705574	3284	98.54	0.94	Reference			FALSE
+Jingyaoa shaoxingensis	GCF_014385005.1	14a	Contig	3649426	3520	97.5	0.62	Reference			FALSE
+Muricoprocola aceti	GCF_025567005.1	14a	Scaffold	3270962	3153	97.5	1.25	Reference			FALSE
+Marvinbryantia formatexigens	GCF_025148285.1	14a	Complete Genome	4577574	4270	98.75	0.62	Reference			FALSE
+Laedolimicola ammoniilytica	GCF_025567165.1	14a	Scaffold	3561714	3488	99.06	0.94	Reference			FALSE
+Roseburia difficilis	GCF_014287625.1	14a	Contig	3223102	3151	73.49	14.85	Reference	X		TRUE
+Anaerosacchariphilus hominis	GCF_014290175.1	14a	Contig	3299248	3266	98.44	0.83	Reference			FALSE
+Hominiventricola filiformis	GCF_020686965.1	14a	Contig	3494392	3497	98.54	0.62	Reference			FALSE
+Fusicatenibacter faecihominis	GCF_020686945.1	14a	Contig	3901120	3617	99.38	0	Reference			FALSE
+Hominisplanchenecus faecis	GCF_020687205.1	14a	Contig	3266661	3025	100	0.62	Reference			FALSE
+Murimonas intestini	GCF_902363655.1	14a	Scaffold	5745043	4906	99.06	0.31	Reference			FALSE
+Robinsoniella peoriensis	GCF_900096675.1	14a	Contig	7202111	5989	99.29	1.88	Reference			FALSE
+Hominisplanchenecus murintestinalis	GCF_943193015.1	14a	Contig	3320873	3061	97.5	0.28	Reference			FALSE
+Blautia coccoides	GCF_900461125.1	14a	Contig	6115043	5485	99.06	1.72	Reference			FALSE
+Blautia producta	GCF_010669205.1	14a	Complete Genome	6197116	5791	96.86	7.2	Reference			FALSE
+Blautia parvula	GCF_020215665.1	14a	Complete Genome	6247046	5642	97.73	2.57	Reference			FALSE
+Blautia marasmi	GCF_900258535.1	14a	Contig	6170525	5419	98.37	2.18	Reference			FALSE
+Blautia pseudococcoides	GCF_001689125.2	14a	Complete Genome	5128746	4853	97.89	1.15	Reference			FALSE
+Blautia hominis	GCF_002270465.1	14a	Contig	5878941	5116	96.31	0.67	Reference			FALSE
+Blautia celeris	GCF_014287615.1	14a	Contig	6189697	5640	97.96	2.26	Reference			FALSE
+Blautia stercoris	GCF_014385405.1	14a	Contig	3425373	3247	94.52	0.96	Reference			FALSE
+Blautia argi	GCF_003287895.1	14a	Complete Genome	3297975	3222	87.39	1.49	Reference	X		TRUE
+Blautia hansenii	GCF_002222595.2	14a	Complete Genome	3065949	3071	90.3	1.82	Reference			FALSE
+Lactonifactor longoviformis	GCF_900129135.1	14a	Scaffold	4839287	4510	88.14	16.24	Reference	X		TRUE
+Ruminococcus gauvreauii	GCF_025151995.1	14a	Complete Genome	4145839	3874	99.17	6.92	Reference			FALSE
+Blautia difficilis	GCF_014297245.1	14a	Contig	3618389	3468	98.34	1.14	Reference			FALSE
+Blautia wexlerae	GCF_025148125.1	14a	Complete Genome	4685728	4431	98.91	1.88	Reference			FALSE
+Blautia luti	GCF_033096465.1	14a	Complete Genome	3741599	3479	99	0.73	Reference			FALSE
+Blautia caecimuris	GCF_024622975.1	14a	Contig	4093107	3891	96.67	1.06	Reference			FALSE
+Blautia obeum	GCF_025147765.1	14a	Complete Genome	3649956	3503	97.34	1.38	Reference			FALSE
+Blautia intestinalis	GCF_014297355.1	14a	Contig	3481912	3363	97.53	0.16	Reference			FALSE
+Blautia schinkii	GCF_013304825.1	14a	Contig	3494515	3223	99.23	0.78	Reference			FALSE
+Blautia fusiformis	GCF_020686995.1	14a	Contig	3534643	3298	99.23	1.9	Reference			FALSE
+Blautia faecis	GCF_020554845.1	14a	Contig	4104676	3828	95.31	3.21	Reference			FALSE
+Blautia glucerasea	GCF_013300845.1	14a	Contig	4398197	4178	95.02	4.15	Reference			FALSE
+Blautia acetigignens	GCF_025566865.1	14a	Scaffold	4023593	3837	95.61	2.23	Reference			FALSE
+Blautia segnis	GCF_014287535.1	14a	Contig	3877012	3696	93.38	1.97	Reference			FALSE
+Blautia ammoniilytica	GCF_025566965.1	14a	Scaffold	3891993	3705	92.81	3.12	Reference			FALSE
+Blautia hydrogenotrophica	GCF_034356035.1	14a	Complete Genome	3597785	3450	99.61	0.08	Reference			FALSE
+Porcincola intestinalis	GCF_034173145.1	14a	Contig	2555669	2256	94.49	0.31	Reference			FALSE
+Chordicoccus furentiruminis	GCF_019355395.1	14a	Complete Genome	3267205	2963	96.88	0.62	Reference			FALSE
+Eubacterium cellulosolvens	GCF_000621585.1	14a	Scaffold	3331935	2829	99.03	1.39	Reference			FALSE
+Bilifractor porci	GCF_009696005.1	14a	Contig	2709224	2500	97.64	0.62	Reference			FALSE
+Blautia liquoris	GCF_015159595.1	14a	Complete Genome	3518434	3232	87.9	1.72	Reference	X		TRUE
+Novisyntrophococcus fermenticellae	GCF_018866245.1	14a	Complete Genome	3420321	3184	97.81	0	Reference			FALSE
+Wansuia hejianensis	GCF_014337215.1	14a	Complete Genome	3949724	3659	99.06	1.15	Reference			FALSE
+Fusicatenibacter saccharivorans	GCF_027667425.1	14a	Scaffold	3782803	3483	99.17	0.65	Reference			FALSE
+Oliverpabstia intestinalis	GCF_009696065.1	14a	Contig	3233390	3077	99.38	1.46	Reference			FALSE
+Blautia faecicola	GCF_004123145.1	14a	Contig	3738517	3499	93.91	2.81	Reference			FALSE
+Dorea hominis	GCF_014287705.1	14a	Contig	3019761	2879	86.97	6.29	Reference	X		TRUE
+Dorea amylophila	GCF_027664025.1	14a	Scaffold	3315135	3239	98.65	4.21	Reference			FALSE
+Dorea longicatena	GCF_001404635.1	14a	Scaffold	3033150	2950	93.44	4.67	Reference			FALSE
+Dorea acetigenes	GCF_025567385.1	14a	Scaffold	3714607	3595	86.75	8.6	Reference	X		TRUE
+Dorea ammoniilytica	GCF_025567415.1	14a	Scaffold	2693657	2659	89.92	7.35	Reference	X		TRUE
+Dorea formicigenerans	GCF_000169235.1	14a	Contig	3186031	3120	98.81	0.46	Reference			FALSE
+Lachnoclostridium phocaeense	GCF_900120345.1	14a	Complete Genome	3500754	3435	98.75	1.88	Reference			FALSE
+Claveliimonas monacensis	GCF_014982975.1	14a	Contig	3008920	2909	98.12	1.56	Reference			FALSE
+Faecalicatena fissicatena	GCF_016900595.1	14a	Contig	3118757	3031	98.75	1.38	Reference			FALSE
+Claveliimonas bilis	GCF_030296795.1	14a	Complete Genome	3143665	3093	98.75	0.62	Reference			FALSE
+Mordavella massiliensis	GCF_016902415.1	14a	Contig	2614310	2639	85.18	5.24	Reference	X		TRUE
+Merdimonas faecis	GCF_001754075.1	14a	Contig	3318223	3308	99.38	2.29	Reference			FALSE
+Suipraeoptans intestinalis	GCF_034091795.1	14a	Contig	2116754	1932	97.5	0.62	Reference			FALSE
+Massilistercora timonensis	GCF_900312975.1	14a	Complete Genome	2769591	2753	99.12	0.29	Reference			FALSE
+Dorea phocaeensis	GCF_900240315.1	14a	Contig	2467622	2374	85.03	4.42	Reference	X		TRUE
+Sporofaciens musculi	GCF_009830285.1	14a	Contig	5763728	5989	98.12	2.6	Reference			FALSE
+Extibacter muris	GCF_004345005.1	14a	Contig	3711428	3996	98.75	0.71	Reference			FALSE
+Clostridium hylemonae	GCF_022845755.1	14a	Complete Genome	3922038	3671	99.38	0	Reference			FALSE
+Clostridium scindens	GCF_020892115.1	14a	Complete Genome	3315593	3421	98.75	0.07	Reference			FALSE
+Coprococcus phoceensis	GCF_900104635.1	14a	Contig	3601259	3538	89.12	17.87	Reference	X		TRUE
+Faecalimonas umbilicata	GCF_027691975.1	14a	Scaffold	2948785	2875	99.38	0.62	Reference			FALSE
+Coprococcus comes	GCF_016904155.1	14a	Complete Genome	3373067	3284	97.88	2.61	Reference			FALSE
+Bariatricus massiliensis	GCF_900086725.1	14a	Scaffold	4219447	4053	98.75	0.52	Reference			FALSE
+Sellimonas caecigallum	GCF_019754295.1	14a	Contig	2670636	2608	99.38	0	Reference			FALSE
+Sellimonas catena	GCF_027924685.1	14a	Contig	3677942	3639	98.75	0.62	Reference			FALSE
+Sellimonas intestinalis	GCF_003435335.1	14a	Scaffold	3234776	3154	99.38	1.25	Reference			FALSE
+Hespellia stercorisuis	GCF_900142165.1	14a	Scaffold	4402942	4189	97.5	0.62	Reference			FALSE
+Faecalicatena contorta	GCF_902375555.1	14a	Scaffold	5156194	4545	99.38	1.56	Reference			FALSE
+Luxibacter massiliensis	GCF_900604355.1	14a	Contig	4142938	3920	98.68	1.57	Reference			FALSE
+Faecalicatena orotica	GCF_003149245.1	14a	Scaffold	5717637	5202	99.31	0.21	Reference			FALSE
+Faecalicatena faecalis	GCF_012524165.2	14a	Contig	5175159	4747	98.75	0	Reference			FALSE
+Muricomes intestini	GCF_004346165.1	14a	Contig	3717384	3573	98.75	0.69	Reference			FALSE
+Faecalicatena acetigenes	GCF_025567175.1	14a	Scaffold	2951124	2876	99.38	0.36	Reference			FALSE
+Mediterraneibacter massiliensis	GCF_001487105.1	14a	Scaffold	3069885	2946	99.38	0.36	Reference			FALSE
+Mediterraneibacter hominis	GCF_014287475.1	14a	Contig	3598112	3434	99.38	1.68	Reference			FALSE
+Mediterraneibacter catenae	GCF_008691045.1	14a	Contig	3181448	3101	99.38	0.62	Reference			FALSE
+Ruminococcus turbiniformis	GCF_020687545.1	14a	Contig	3813516	3681	99.48	5.46	Reference			FALSE
+Ruminococcus torques	GCF_003470435.1	14a	Scaffold	2959517	2749	99.38	0	Reference			FALSE
+Mediterraneibacter faecis	GCF_027670965.1	14a	Scaffold	3102600	2909	98.66	0.83	Reference			FALSE
+Ruminococcus lactaris	GCF_025152405.1	14a	Complete Genome	2733858	2576	98.75	0.62	Reference			FALSE
+Mediterraneibacter agrestimuris	GCF_943193195.1	14a	Contig	4042800	3866	98.12	2.66	Reference			FALSE
+Mediterraneibacter glycyrrhizinilyticus	GCF_015560805.1	14a	Scaffold	3000221	2748	99.38	0.83	Reference			FALSE
+Schaedlerella arabinosiphila	GCF_003885045.1	14a	Contig	6521014	6054	98.97	3.75	Reference			FALSE
+Ruminococcus hominis	GCF_014287355.1	14a	Contig	3454944	3215	96.69	2.86	Reference			FALSE
+Mediterraneibacter gnavus	GCF_009831375.1	14a	Complete Genome	3549191	3556	98.27	0.75	Reference			FALSE
+Mediterraneibacter butyricigenes	GCF_003574295.1	14a	Contig	3034489	2952	99.06	0.16	Reference			FALSE
+Ohessyouella blattaphilus	GCF_024160185.1	14a	Contig	3250480	3098	98.12	1.25	Reference			FALSE
+Aequitasia blattaphilus	GCF_024160205.1	14a	Contig	3210596	3083	98.66	1.25	Reference			FALSE
+Brotonthovivens ammoniilytica	GCF_025566885.1	14a	Scaffold	3452403	3188	97.92	1.35	Reference			FALSE
+Eubacterium ramulus	GCF_001406295.1	14a	Scaffold	3307376	3079	98.73	2.29	Reference			FALSE
+Eubacterium oxidoreducens	GCF_900104415.1	14a	Scaffold	2912287	2708	99.36	2.55	Reference			FALSE
+Petralouisia muris	GCF_004793545.1	14a	Contig	5871761	6038	97.08	0.61	Reference			FALSE
+Roseburia faecis	GCF_001405615.1	14a	Scaffold	3567818	3607	82.34	11.15	Reference	X		TRUE
+Roseburia porci	GCF_009695765.1	14a	Contig	2982004	2867	81.89	10.4	Reference	X		TRUE
+Lachnobacterium bovis	GCF_900107245.1	14a	Scaffold	2717066	2495	89.86	8.5	Reference	X		TRUE
+Agathobacter ruminis	GCF_002735305.1	14a	Contig	2858624	2669	97.71	0.42	Reference			FALSE
+Agathobacter rectalis	GCF_022453685.1	14a	Complete Genome	3451485	3373	98.57	0	Reference			FALSE
+Roseburia hominis	GCF_902387955.1	14a	Complete Genome	3592125	3347	97.48	0.86	Reference			FALSE
+Roseburia intestinalis	GCF_900537995.1	14a	Complete Genome	4493348	4193	90.96	10.26	Reference	X		TRUE
+Roseburia rectibacter	GCF_014287515.2	14a	Complete Genome	3959994	3631	89.13	11.62	Reference	X		TRUE
+Roseburia inulinivorans	GCF_020731525.1	14a	Contig	4227688	4010	98.44	2.41	Reference			FALSE
+Roseburia yibonii	GCF_014297335.1	14a	Contig	2712279	2718	79.47	6.38	Reference	X		TRUE
+Roseburia amylophila	GCF_025567465.1	14a	Scaffold	2871164	2765	81.09	8.83	Reference	X		TRUE
+Roseburia zhanii	GCF_014287635.1	14a	Contig	3504022	3291	80.82	9.71	Reference	X		TRUE
+Pseudobutyrivibrio xylanivorans	GCF_900141825.1	14a	Scaffold	3420924	3161	98.92	2.86	Reference			FALSE
+Pseudobutyrivibrio ruminis	GCF_900218035.1	14a	Contig	3020378	2818	96.87	4.79	Reference			FALSE
+Roseburia lenta	GCF_014287435.1	14a	Contig	2558168	2418	73.62	4.52	Reference	X		TRUE
+Shuttleworthella satelles	GCF_000160115.1	14a	Scaffold	2169477	1969	97.76	0.02	Reference			FALSE
+Gallintestinimicrobium propionicum	GCF_025567525.1	14a	Scaffold	3795992	3625	98.44	0.21	Reference			FALSE
+Eisenbergiella porci	GCF_009696275.1	14a	Contig	6105837	5979	98.44	1.35	Reference			FALSE
+Eisenbergiella massiliensis	GCF_003435485.1	14a	Scaffold	6692195	5745	98.44	0.73	Reference			FALSE
+Eisenbergiella tayi	GCF_001717125.1	14a	Scaffold	7516843	6435	98.75	2.6	Reference			FALSE
+Kineothrix alysoides	GCF_000732725.1	14a	Contig	4676087	4222	97.97	1.53	Reference			FALSE
+Waltera intestinalis	GCF_009695995.1	14a	Contig	2970649	2798	96.88	0.62	Reference			FALSE
+Brotolimicola acetigignens	GCF_025567015.1	14a	Scaffold	4097696	3872	98.75	0	Reference			FALSE
+Simiaoa sunii	GCF_014337175.1	14a	Complete Genome	3572951	3328	98.75	0	Reference			FALSE
+Acetatifactor aquisgranensis	GCF_943193215.1	14a	Contig	5880648	5812	98.02	0.94	Reference			FALSE
+Acetatifactor muris	GCF_900248245.1	14a	Contig	6013646	5861	98.12	3.02	Reference			FALSE
+Suilimivivens aceti	GCF_025567405.1	14a	Scaffold	3334484	3278	99.06	0.83	Reference			FALSE
+Parablautia intestinalis	GCF_949738545.1	14a	Contig	3937088	3682	98.7	1.04	Reference			FALSE
+Parablautia muri	GCF_009917485.1	14a	Contig	5152081	5136	97.92	3.18	Reference			FALSE
+Butyrivibrio proteoclasticus	GCF_000145035.1	14a	Complete Genome	4404886	3929	95.12	10.63	Reference	X		TRUE
+Butyrivibrio hungatei	GCF_001858005.1	14a	Complete Genome	3386314	3091	99.63	0	Reference			FALSE
+Butyrivibrio fibrisolvens	GCF_037113525.1	14a	Complete Genome	4934347	4205	93.7	8.29	Reference			FALSE
+Acetitomaculum ruminis	GCF_900112085.1	14a	Scaffold	3082721	2704	97.71	0.62	Reference			FALSE
+Lachnospira hominis	GCF_014287955.1	14a	Contig	2936761	2795	75.21	11.7	Reference	X		TRUE
+Eubacterium eligens	GCF_000146185.1	14a	Complete Genome	2831389	2738	77.26	13.08	Reference	X		TRUE
+Lachnospira pectinoschiza	GCF_900103815.1	14a	Scaffold	2704308	2354	91.8	4.16	Reference			FALSE
+Lachnospira multipara	GCF_000424105.1	14a	Scaffold	2871860	2598	98.5	0.64	Reference			FALSE
+Clostridium fimetarium	GCF_900111235.1	14a	Contig	4568183	4177	98.75	2.68	Reference			FALSE
+Butyrivibrio crossotus	GCF_902373805.1	14a	Scaffold	2496039	2493	89.11	3.13	Reference	X		TRUE
+Eubacterium segne	GCF_014287775.1	14a	Contig	2929446	2755	95.38	3.82	Reference			FALSE
+Eubacterium ventriosum	GCF_003475105.1	14a	Scaffold	2761423	2501	99.36	0.64	Reference			FALSE
+Eubacterium uniforme	GCF_900167115.1	14a	Scaffold	2872342	2473	99.36	1.27	Reference			FALSE
+Bovifimicola ammoniilytica	GCF_025567085.1	14a	Scaffold	3027291	2784	99.12	0	Reference			FALSE
+Eubacterium ruminantium	GCF_900167085.1	14a	Scaffold	2841101	2564	98.41	1.27	Reference			FALSE
+Wujia chipingensis	GCF_014337155.1	14a	Complete Genome	2942917	2747	98.12	0.78	Reference			FALSE
+Coprococcus ammoniilyticus	GCF_025567345.1	14a	Scaffold	2912566	2583	75.1	11.35	Reference	X		TRUE
+Coprococcus aceti	GCF_025567285.1	14a	Scaffold	3235561	2921	74.07	14.84	Reference	X		TRUE
+Coprococcus eutactus	GCF_020735705.1	14a	Complete Genome	3113335	2728	75.52	14.52	Reference	X		TRUE
+Eubacterium xylanophilum	GCF_000518685.1	14a	Scaffold	2579248	2233	98.73	0	Reference			FALSE
+Jutongia huaianensis	GCF_014384985.1	14a	Contig	3067583	2810	98.12	0.62	Reference			FALSE
+Butyribacter intestini	GCF_027665565.1	14a	Scaffold	3449310	3012	97.2	0.62	Reference			FALSE
+Jutongia hominis	GCF_014384965.1	14a	Contig	2741145	2436	90	0.62	Reference			FALSE
+Catonella morbi	GCF_000160035.2	14a	Scaffold	3479204	3172	98.75	1.88	Reference			FALSE
+Catonella massiliensis	GCF_016651435.1	14a	Contig	3122925	2826	98.75	0.62	Reference			FALSE
+Anaerostipes butyraticus	GCF_016586355.1	14a	Contig	3173732	3279	98.12	1.88	Reference			FALSE
+Anaerostipes faecalis	GCF_018982945.1	14a	Contig	2544126	2597	97.5	3.02	Reference			FALSE
+Anaerostipes amylophilus	GCF_025567365.1	14a	Scaffold	2459729	2440	98.12	1.98	Reference			FALSE
+Anaerostipes hadrus	GCF_000210695.1	14a	Chromosome	3114788	3096	97.43	1.35	Reference			FALSE
+Anaerostipes caccae	GCF_020181435.1	14a	Complete Genome	3284789	3325	98.75	3.33	Reference			FALSE
+Anaerostipes rhamnosivorans	GCF_005280655.1	14a	Complete Genome	3588860	3548	97.93	3.54	Reference			FALSE
+Anaerobutyricum soehngenii	GCF_009697165.1	14a	Contig	3194235	2890	98.75	1.67	Reference			FALSE
+Anaerobutyricum hallii	GCF_018140635.1	14a	Chromosome	3455681	3148	98.12	1.41	Reference			FALSE
+Catenibacillus scindens	GCF_014202115.1	14a	Scaffold	3872981	3573	97.6	1.34	Reference			FALSE
+Coprococcus catus	GCF_019734885.1	14a	Scaffold	3599035	3412	82.54	19.86	Reference	X		TRUE
+Frisingicoccus caecimuris	GCF_004340975.1	14a	Scaffold	2716364	2709	98.12	1.25	Reference			FALSE
+Massiliimalia massiliensis	GCF_900155615.1	4	Contig	2842720	2761	99.38	2.17	Reference			FALSE
+Massiliimalia timonensis	GCF_900186585.1	4	Contig	2707061	2644	98.76	0.62	Reference			FALSE
+Fumia xinanensis	GCF_014384905.1	4	Contig	2834305	2672	96.32	0.62	Reference			FALSE
+Huintestinicola butyrica	GCF_025567215.1	4	Scaffold	3013746	2933	99.38	0.62	Reference			FALSE
+Ruminococcus albus	GCF_000179635.2	4	Complete Genome	4482087	4130	97.37	0.61	Reference			FALSE
+Ruminococcus bicirculans	GCF_000723465.1	4	Complete Genome	2968500	2811	97.52	0.07	Reference			FALSE
+Hominimerdicola aceti	GCF_025567495.1	4	Scaffold	2965035	2851	98.76	0	Reference		X	TRUE
+Ruminococcus callidus	GCF_000468015.1	4	Scaffold	3096487	2910	95.66	1.52	Reference			FALSE
+Ruminococcus flavefaciens	GCF_000518765.1	4	Scaffold	3587803	3155	98.73	1.64	Reference			FALSE
+Porcipelethomonas ammoniilytica	GCF_025567485.1	4	Scaffold	2657141	2722	99.38	0	Reference			FALSE
+Ruminococcus champanellensis	GCF_000210095.1	4	Chromosome	2573208	2395	96.97	1.1	Reference			FALSE
+Acetanaerobacterium elongatum	GCF_900103835.1	4	Scaffold	2916215	2845	99.38	0.31	Reference			FALSE
+Zongyangia hominis	GCF_014385095.1	4	Contig	2561368	2359	98.14	0	Reference			FALSE
+Soleaferrea massiliensis	GCF_000820765.1	4	Contig	3098593	2501	99.09	0	Reference			FALSE
+Angelakisella massiliensis	GCF_900104675.1	4	Scaffold	4041781	3928	98.94	0.08	Reference			FALSE
+Yanshouia hominis	GCF_014385025.1	4	Contig	3258552	3273	97.52	1.32	Reference			FALSE
+Merdimmobilis hominis	GCF_900104615.1	4	Scaffold	2580742	2486	93.79	6.24	Reference			FALSE
+Provencibacterium massiliense	GCF_900169495.1	4	Contig	3084227	2967	99.38	0.78	Reference			FALSE
+Harryflintia acetispora	GCF_004340125.1	4	Scaffold	2932766	2783	98.76	0.78	Reference			FALSE
+Ligaoa zhengdingensis	GCF_014384885.1	4	Contig	2951177	2804	98.63	0.62	Reference			FALSE
+Hydrogenoanaerobacterium saccharovorans	GCF_003814745.1	4	Contig	3176247	2996	99.38	0.7	Reference			FALSE
+Youxingia wuxianensis	GCF_014385085.1	4	Contig	2660737	2731	97.52	1.37	Reference			FALSE
+Marasmitruncus massiliensis	GCF_900186535.1	4	Contig	3761792	3632	99.38	0.08	Reference			FALSE
+Anaerotruncus rubiinfantis	GCF_900078395.1	4	Contig	3409026	3388	97.52	2.22	Reference			FALSE
+Anaerotruncus colihominis	GCF_023008305.1	4	Complete Genome	3508661	3474	99.38	0	Reference			FALSE
+Neobittarella massiliensis	GCF_900289145.1	4	Contig	3233519	2979	94.41	1.24	Reference			FALSE
+Anaerofilum hominis	GCF_014287275.1	4	Contig	3136292	2771	96.89	1.24	Reference			FALSE
+Pygmaiobacter massiliensis	GCF_900199435.1	4	Contig	2804249	2696	96.27	0	Reference			FALSE
+Ruthenibacterium lactatiformans	GCF_027666165.1	4	Scaffold	3883274	3661	98.14	0.07	Reference			FALSE
+Fournierella massiliensis	GCF_001486665.1	4	Scaffold	3829505	3685	98.76	0.21	Reference			FALSE
+Gemmiger qucibialis	GCF_027689445.1	4	Scaffold	3494751	3158	99.12	0.88	Reference			FALSE
+Gemmiger formicilis	GCF_902363055.1	4	Scaffold	3012248	2725	97.37	0	Reference			FALSE
+Gemmiger gallinarum	GCF_014982805.1	4	Contig	2955389	2751	99.12	0	Reference			FALSE
+Subdoligranulum variabile	GCF_025152575.1	4	Complete Genome	3244954	3073	99.38	0.62	Reference			FALSE
+Faecalibacterium gallinarum	GCF_022180365.1	4	Contig	2813415	2740	80.66	8.91	Reference	X		TRUE
+Faecalibacterium longum	GCF_020687245.1	4	Contig	2962236	2885	91.47	5.03	Reference			FALSE
+Faecalibacterium hattorii	GCF_003287455.1	4	Contig	2790636	2753	87.36	4.56	Reference	X		TRUE
+Faecalibacterium prausnitzii	GCF_000154385.1	4	Scaffold	3127383	3027	99.38	1.12	Reference			FALSE
+Faecalibacterium duncaniae	GCF_010509575.1	4	Complete Genome	3102523	3007	88.18	6.74	Reference	X		TRUE
+Solibaculum mannosilyticum	GCF_015140235.1	4	Complete Genome	2541474	2359	97.52	0.93	Reference			FALSE
+Ethanoligenens harbinense	GCF_000178115.2	4	Complete Genome	3008576	2870	99.38	0	Reference			FALSE
+Eubacterium coprostanoligenes	GCF_900167205.1	4	Contig	1823434	1721	97.45	0	Reference			FALSE
+Pseudoruminococcus massiliensis	GCF_900291955.1	4	Contig	2428410	2273	98.25	0	Reference			FALSE
+Ruminococcus difficilis	GCF_016680995.1	4	Contig	3705135	3487	86.46	23.73	Reference	X		TRUE
+Ruminococcus bovis	GCF_005601135.1	4	Complete Genome	2440231	2332	93.89	1.37	Reference			FALSE
+Ruminococcus intestinalis	GCF_014288065.1	4	Contig	2436182	2401	93.01	1.33	Reference			FALSE
+Ruminococcus bromii	GCF_025992865.1	4	Contig	2308568	2184	94.3	2.36	Reference			FALSE
+Yeguia hominis	GCF_014384705.1	4	Contig	2977335	2843	94.68	0	Reference			FALSE
+Scatolibacter rhodanostii	GCF_900197595.1	4	Contig	2702024	2515	97.2	1.24	Reference			FALSE
+Hominenteromicrobium mulieris	GCF_020687165.1	4	Contig	2853755	2791	97.83	1.24	Reference			FALSE
+Acutalibacter muris	GCF_002201475.1	4	Chromosome	3802913	3978	98.25	0.22	Reference			FALSE
+Neglectibacter timonensis	GCF_900048895.1	4	Scaffold	3671597	3273	97.83	0.31	Reference			FALSE
+Hydrogeniiclostridium mannosilyticum	GCF_003268275.1	4	Contig	3014016	2839	98.25	0	Reference			FALSE
+Anaeromassilibacillus senegalensis	GCF_001261775.1	4	Scaffold	3511751	3108	97.51	0	Reference			FALSE
+Caproiciproducens faecalis	GCF_019448085.1	4	Contig	3007702	2926	98.25	0	Reference			FALSE
+Caproiciproducens galactitolivorans	GCF_029266045.1	4	Contig	2408423	2336	99.12	0	Reference			FALSE
+Clostridium minihomine	GCF_900240385.1	4	Contig	2705425	2596	95.5	1.24	Reference			FALSE
+Faecalispora anaeroviscerum	GCF_947568225.1	4	Contig	2921941	2841	98.64	1.39	Reference			FALSE
+Clostridium merdae	GCF_900176635.1	4	Contig	2748860	2690	95.6	1.24	Reference			FALSE
+Faecalispora sporosphaeroides	GCF_015066675.1	4	Scaffold	2942092	2766	98.76	0.97	Reference			FALSE
+Faecalispora jeddahensis	GCF_030825295.1	4	Scaffold	3664078	3550	98.14	1.6	Reference			FALSE
+Thermocaproicibacter melissae	GCF_024498295.1	4	Complete Genome	1960795	1888	97.52	0.62	Reference			FALSE
+Caproicibacter fermentans	GCF_014303955.1	4	Complete Genome	3947358	3963	98.22	1.97	Reference			FALSE
+Caproicibacterium lactatifermentans	GCF_013315815.1	4	Complete Genome	1989979	1947	98.69	0	Reference			FALSE
+Caproicibacterium argilliputei	GCF_029211325.2	4	Complete Genome	2904997	2817	98.14	0.31	Reference			FALSE
+Caproicibacterium amylolyticum	GCF_014467055.1	4	Complete Genome	2996201	2903	99.38	0.23	Reference			FALSE
+Feifania hominis	GCF_014384765.1	4	Contig	2356956	2314	91.71	0	Reference			FALSE
+Butyricicoccus porcorum	GCF_002157465.1	4	Contig	2896918	2890	96.49	1.75	Reference			FALSE
+Butyricicoccus intestinisimiae	GCF_018918345.1	4	Contig	2711934	2709	98.25	0	Reference			FALSE
+Intestinibacillus massiliensis	GCF_900155735.1	4	Scaffold	2841380	2826	93.86	1.75	Reference			FALSE
+Butyricicoccus pullicaecorum	GCF_002160355.1	4	Contig	2997778	2954	98.25	0	Reference			FALSE
+Butyricicoccus faecihominis	GCF_014648015.1	4	Scaffold	2995907	2943	99.12	0.88	Reference			FALSE
+Agathobaculum hominis	GCF_014288055.1	4	Contig	2563169	2490	99.12	0	Reference			FALSE
+Agathobaculum desmolans	GCF_000701665.1	4	Scaffold	2646896	2751	99.12	0.44	Reference			FALSE
+Agathobaculum massiliense	GCF_900291975.1	4	Contig	3218823	3303	99.12	1.54	Reference			FALSE
+Agathobaculum faecis	GCF_014287995.1	4	Contig	3052159	3222	99.12	0.44	Reference			FALSE
+Agathobaculum ammoniilyticum	GCF_025567315.1	4	Scaffold	2999081	3102	99.12	0.44	Reference			FALSE
+Sporobacter termitidis	GCF_900130065.1	4	Scaffold	4198214	3895	98.14	2.67	Reference			FALSE
+Papillibacter cinnamivorans	GCF_900176335.1	4	Scaffold	2890610	2733	98.14	0.41	Reference			FALSE
+Vescimonas fastidiosa	GCF_018326305.1	4	Complete Genome	2504406	2429	91.93	1.53	Reference			FALSE
+Brotocaccenecus cirricatena	GCF_020687045.1	4	Contig	3356827	3515	90.06	1.86	Reference			FALSE
+Vescimonas coprocola	GCF_018408575.1	4	Complete Genome	2557760	2494	91.93	1.32	Reference			FALSE
+Dysosmobacter acutus	GCF_018919205.1	4	Contig	3161374	3107	95.03	2.82	Reference			FALSE
+Oscillibacter hominis	GCF_014334055.1	4	Chromosome	2823823	2768	93.79	1.37	Reference			FALSE
+Dysosmobacter segnis	GCF_014297285.1	4	Contig	3671022	3898	94.62	0.62	Reference			FALSE
+Neopoerus faecalis	GCF_029218125.1	4	Contig	2542847	2522	96.27	0.62	Reference			FALSE
+Pusillibacter faecalis	GCF_018408705.1	4	Complete Genome	3407680	3459	98.14	0.75	Reference			FALSE
+Oscillibacter valericigenes	GCF_021531915.1	4	Contig	2493294	2508	98.14	1.69	Reference			FALSE
+Oscillibacter ruminantium	GCF_000307265.1	4	Scaffold	3108242	2987	98.76	1.14	Reference			FALSE
+Dysosmobacter welbionis	GCF_036321785.1	4	Contig	3381318	3316	97.52	1.55	Reference			FALSE
+Oscillibacter acetigenes	GCF_025567605.1	4	Scaffold	3346315	3283	98.14	1.55	Reference			FALSE
+Evtepia gabavorous	GCF_008121455.1	4	Contig	2494407	2431	97.81	0	Reference			FALSE
+Clostridium phoceensis	GCF_001244495.1	4	Scaffold	3453778	3441	91.91	1.24	Reference			FALSE
+Flintibacter faecis	GCF_014287875.1	4	Contig	2849896	2795	95.26	0	Reference			FALSE
+Flintibacter muris	GCF_943192995.1	4	Contig	4522258	4748	99.12	2.41	Reference			FALSE
+Muriventricola aceti	GCF_025567565.1	4	Scaffold	3071079	3212	98.76	1.45	Reference			FALSE
+Flintibacter hominis	GCF_014287965.1	4	Contig	2728146	2758	95.7	0	Reference			FALSE
+Vermiculatibacterium agrestimuris	GCF_943193085.1	4	Contig	2242112	2081	94.41	0.62	Reference			FALSE
+Intestinimonas timonensis	GCF_900626145.1	4	Scaffold	3444574	3621	99.12	0	Reference			FALSE
+Intestinimonas butyriciproducens	GCF_001940005.1	4	Contig	3200860	3185	97.37	1.75	Reference			FALSE
+Pseudoflavonifractor capillosus	GCF_000169255.2	4	Contig	4241076	4067	97.2	4.33	Reference			FALSE
+Lawsonibacter faecis	GCF_014287675.1	4	Contig	4054796	3551	98.14	2.15	Reference			FALSE
+Flavonifractor plautii	GCF_010508875.1	4	Complete Genome	3985392	3967	98.14	2.55	Reference			FALSE
+Lawsonibacter hominis	GCF_014287895.1	4	Contig	3499704	3436	95.03	2.07	Reference			FALSE
+Lawsonibacter celer	GCF_014281125.1	4	Contig	2623040	2514	98.76	3.11	Reference			FALSE
+Pseudoflavonifractor phocaeensis	GCF_016901735.1	4	Contig	3173161	3124	98.32	0.83	Reference			FALSE
+Pseudoflavonifractor gallinarum	GCF_014982855.1	4	Contig	3182492	3126	97.52	1.94	Reference			FALSE
+Pseudoflavonifractor hominis	GCF_014288125.1	4	Contig	3057742	3014	94.41	1.53	Reference			FALSE
+Congzhengia minquanensis	GCF_014384785.1	4	Contig	2802181	2652	96.89	0	Reference			FALSE
+Qingrenia yutianensis	GCF_014385105.1	4	Contig	2635915	2470	96.27	1.52	Reference			FALSE
+Hominilimicola fabiformis	GCF_020687385.1	4	Contig	3087174	2811	96.27	1.37	Reference			FALSE
+Ructibacterium gallinarum	GCF_014982785.1	4	Contig	3008341	2561	95.86	0.62	Reference			FALSE
+Monoglobus pectinilyticus	GCF_002874775.1	4	Chromosome	2759678	2325	99.09	0.91	Reference			FALSE
+Aristaeella lactis	GCF_018118585.1	4	Complete Genome	3450610	3097	95.61	0.29	Reference			FALSE
+Aristaeella hokkaidonensis	GCF_018128945.1	4	Complete Genome	3390518	3035	95.61	0.29	Reference			FALSE
+Borkfalkia ceftriaxoniphila	GCF_004134775.1	4	Scaffold	2608799	2332	94.51	0.03	Reference			FALSE
+Anaerocaecibacter muris	GCF_943192945.1	4	Contig	1970454	1749	95.18	0	Reference			FALSE
+Pumilibacter intestinalis	GCF_943193005.1	4	Contig	2344908	2104	95.61	0	Reference			FALSE
+Pumilibacter muris	GCF_943193045.1	4	Contig	2293417	2033	93.86	0	Reference			FALSE
+Gehongia tenuis	GCF_014384795.1	4	Contig	2223526	2250	98.64	0	Reference			FALSE
+Maliibacterium massiliense	GCF_900604345.1	4	Complete Genome	2422126	2322	98.68	0.88	Reference			FALSE
+Luoshenia tenuis	GCF_014384745.1	4	Contig	2655978	2480	98.64	0	Reference			FALSE
+Guopingia tenuis	GCF_014384805.1	4	Contig	2203091	2129	100	0.18	Reference			FALSE
+Christensenella timonensis	GCF_900087015.1	4	Contig	2650850	2483	98.68	0	Reference			FALSE
+Christensenella hongkongensis	GCF_001507385.1	4	Contig	2797114	2656	98.86	0.91	Reference			FALSE
+Christensenella intestinihominis	GCF_001678845.1	4	Scaffold	3026655	2837	99.77	0	Reference			FALSE
+Christensenella tenuis	GCF_014287795.1	4	Contig	3025891	2890	99.77	0	Reference			FALSE
+Christensenella minuta	GCF_003628755.1	4	Complete Genome	2969292	2883	97.95	0	Reference			FALSE
+Bianquea renquensis	GCF_014384895.1	14b	Contig	3939669	3529	100	0.88	Reference			FALSE
+Anaeropeptidivorans aminofermentans	GCF_940670685.1	14b	Complete Genome	3757330	3177	95	3.96	Reference			FALSE
+Clostridium colinum	GCF_940677205.1	14b	Complete Genome	2035557	2021	88.75	4.89	Reference	X		TRUE
+Chakrabartyella piscis	GCF_030067835.1	14b	Complete Genome	3403101	3088	91.88	0.51	Reference			FALSE
+Anaerotignum propionicum	GCF_001561955.1	14b	Complete Genome	3120417	3003	98.18	0	Reference			FALSE
+Anaerotignum neopropionicum	GCF_001571775.1	14b	Contig	3194881	3046	99.09	5.91	Reference			FALSE
+Anaerotignum lactatifermentans	GCF_014982935.1	14b	Contig	2922609	2936	99.09	0.91	Reference			FALSE
+Anaerotignum faecicola	GCF_003865035.1	14b	Contig	2520658	2476	99.09	0	Reference			FALSE
+Epulonipiscium viviparus	GCF_030708075.1	14b	Chromosome	3282271	2749	89.01	0.94	Reference	X		TRUE
+Sporanaerobium hydrogeniformans	GCF_002735925.1	14b	Contig	3743071	3519	98.54	2.66	Reference			FALSE
+Cellulosilyticum ruminicola	GCF_001311925.1	14b	Contig	4060997	4079	90.76	1.82	Reference			FALSE
+Cellulosilyticum lentocellum	GCF_000178835.2	14b	Complete Genome	4714237	4384	98.18	0.91	Reference			FALSE
+Zhenhengia yiwuensis	GCF_034093515.1	14b	Contig	3331223	3355	97.44	5.35	Reference			FALSE
+Niameybacter massiliensis	GCF_001282685.1	14b	Scaffold	4578674	4332	98.75	5.13	Reference			FALSE
+Holtiella tumoricola	GCF_027857615.1	14b	Contig	4707720	4529	99.09	2.73	Reference		X	TRUE
+Defluviitalea raffinosedens	GCF_009765695.1	14b	Contig	3092142	2982	98.18	0.45	Reference			FALSE
+Defluviitalea phaphyphila	GCF_001466305.1	14b	Scaffold	2539811	2495	99.09	0	Reference			FALSE
+Petrocella atlantisensis	GCF_900538275.1	14b	Complete Genome	3518882	3283	99.09	1.36	Reference			FALSE
+Anaerotalea alkaliphila	GCF_010179735.1	14b	Contig	2980040	2866	98.25	0.88	Reference			FALSE
+Natranaerovirga pectinivora	GCF_004342165.1	14b	Scaffold	3061098	2922	100	0.88	Reference			FALSE
+Natranaerovirga hydrolytica	GCF_004339095.1	14b	Contig	2984055	2827	99.12	0	Reference			FALSE
+Vallitalea okinawensis	GCF_002964605.1	14b	Scaffold	5859119	5302	99.09	5.45	Reference			FALSE
+Vallitalea pronyensis	GCF_018141445.1	14b	Complete Genome	6325483	5297	98.18	5.91	Reference			FALSE
+Vallitalea longa	GCF_027923465.1	14b	Contig	5707491	4998	99.09	6.52	Reference			FALSE
+Vallitalea guaymasensis	GCF_018141425.1	14b	Complete Genome	5626074	4840	99.09	6.36	Reference			FALSE
