@@ -12,11 +12,11 @@ library(ape)
 
 args = commandArgs(trailingOnly=TRUE)
 tree.file = args[1]
-out.dir = args[2]
+out.file = args[2]
 outgroup = args[3]
 
 tree.0 =  read.tree(tree.file)
 tree.m = root(tree.0, outgroup = outgroup)
 tree.m = drop.tip(tree.m, tip = outgroup)
 
-write.tree(tree.m, file = paste(out.dir, "merge.contree", sep = "/"))
+write.tree(tree.m, file = out.file)

@@ -28,8 +28,8 @@ plot_pangenome_cumulative = function (fit, plot = TRUE, legend = TRUE, text_size
                                                   y = .data$acc, colour = .data$pangenome)) + ggplot2::geom_point(ggplot2::aes(shape = .data$branch))
     if (facet) {
       plot_data$pangenome2 = plot_data$pangenome
-      gg = ggplot2::ggplot(plot_data, ggplot2::aes(x = .data$core, y = .data$acc, colour = .data$pangenome)) + 
-        ggplot2::geom_point(data = plot_data[,2:5], ggplot2::aes(x = .data$core, y = .data$acc), colour = "grey", size = 0.5) +
+      gg = ggplot2::ggplot(plot_data, ggplot2::aes(x = .data$core, y = .data$acc, group = .data$pangenome, colour = .data$pangenome)) + 
+        ggplot2::geom_point(data = plot_data[,2:5], ggplot2::aes(x = .data$core, y = .data$acc, group = pangenome2), colour = "grey", size = 0.5) +
         ggplot2::geom_point()
       gg <- gg + ggplot2::facet_wrap(~pangenome, ncol = round(sqrt(length(unique(plot_data$pangenome)))))
     }
@@ -43,13 +43,13 @@ plot_pangenome_cumulative = function (fit, plot = TRUE, legend = TRUE, text_size
     gg <- gg + ggplot2::geom_smooth(method = "glm", method.args = list(family = "quasipoisson"), 
                                     level = 0.95)
   }
+
   gg <- gg + ggplot2::scale_colour_brewer(type = "qual", palette = color_pallete) + 
-  ggplot2::scale_fill_brewer(type = "qual", palette = color_pallete) +
-  ggplot2::theme_bw(base_size = text_size) + ggplot2::xlab("cumulative core branch distance") + 
-  ggplot2::ylab("cumulative genomic divergence events")
+    ggplot2::scale_fill_brewer(type = "qual", palette = color_pallete) + 
+    ggplot2::theme_bw(base_size = text_size) + ggplot2::xlab("cumulative core branch distance") + 
+    ggplot2::ylab("cumulative genomic divergence events")
   if (!legend) {
-    gg <- gg + ggplot2::theme(legend.position = "none") +
-      ggplot2::guides(color = "none", fill = "none")
+    gg <- gg + ggplot2::theme(legend.position = "none")
   }
   gg
   return(gg)

@@ -28,10 +28,11 @@ write.tree(tree, file = paste(out.dir, "input_ready.tree", sep = "/"))
 
 ## Converting the P/A data
 # Gene family presences are converted into a plain count number instead of lists of genomic intervals
-pa = as.data.frame(fread(pa.file, drop = 2:14, sep = " "))
+pa = fread(pa.file, drop = 2:14, sep = ",", data.table = FALSE)
 rownames(pa) = pa$Gene
-pa[] = lapply(pa, function (x) str_count(x, ",") + 1) # Genomic intervals are separated by commas
-pa$Gene = rownames(pa)
+pa$Gene = NULL
+pa[] = lapply(pa, function (x) (str_count(x, '" "') + 1) * sign(str_count(x))) # Genomic intervals are separated by commas
+pa = cbind(Gene = rownames(pa), pa)
 new.cols = colnames(pa)
 new.cols = lapply(new.cols, function (x) str_replace_all(x, '_', ' ')) # Remove underscores as Count ignores these
 colnames(pa) = new.cols
@@ -40,9 +41,9 @@ fwrite(pa, file = paste(out.dir, "matrix_counts.tsv", sep = "/"), sep = "\t")
 ## Preparing the eggNOG annotation table
 cols.pa = c(1,3)
 cols.ann = c(1,7)
-pa = as.data.frame(fread(pa.file, select = cols.pa, sep = ","))
+pa = fread(pa.file, select = cols.pa, sep = ",", data.table = FALSE)
 ann.filt = system(paste("cat", ann.file, "| grep -v '##'"), intern = TRUE)
-ann = as.data.frame(fread(text = ann.filt, select = cols.ann, sep = "\t"))
+ann = fread(text = ann.filt, select = cols.ann, sep = "\t", data.table = FALSE)
 ann = rename(ann, 'Gene' = '#query')
 joined_ann = inner_join(pa, ann)
 fwrite(joined_ann, file = paste(out.dir, "matrix_annotations.tsv", sep = "/"), sep = "\t", quote = FALSE, col.names = FALSE)
